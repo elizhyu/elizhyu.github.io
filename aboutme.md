@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Where you get to know me real quick
 ---
 
 <img src="/img/aboutme/facts.png" width="100%" />
