@@ -3,8 +3,8 @@ layout: page
 title: Isaac Newtons's CV
 ---
 
-<link href="/css/davewhipp-screen.css" type="text/css" rel="stylesheet" media="screen">
-<link href="/css/davewhipp-print.css" type="text/css" rel="stylesheet" media="print">
+<link href="/css/kjhealy-screen.css" type="text/css" rel="stylesheet" media="screen">
+<link href="/css/kjhealy-print.css" type="text/css" rel="stylesheet" media="print">
 
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
