@@ -9,7 +9,8 @@
     </head>
 
     <body>
-        
+
+        {% include gtm_body.html %}
         {% include nav.html %}
         
         <div id="main">
@@ -17,6 +18,10 @@
                 {{ content }}
             </div>
         </div>
+
+        {% include footer.html %}
+        {% include footer-scripts.html %}
+
     </body>
 
 </div>
