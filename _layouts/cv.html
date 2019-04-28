@@ -73,12 +73,13 @@ common-js:
     </head>
 
     <body>
+        <div class="container-fluid" role="main">
+            {% include gtm_body.html %}
+            {% include nav.html %}
 
-        {% include gtm_body.html %}
-        {% include nav.html %}
+            <div class="intro-header"></div>
+        </div>
 
-        <div class="intro-header"></div>
-        
         <div id="main">
             <div id="content">
                 {{ content }}
