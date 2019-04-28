@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isaac Newtons's CV
+title: Resume
 ---
 
 <link href="/css/kjhealy-screen.css" type="text/css" rel="stylesheet" media="screen">
