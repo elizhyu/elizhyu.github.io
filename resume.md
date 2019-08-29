@@ -4,7 +4,7 @@ title: Resume
 subtitle: Eli Zhihao Yu
 ---
 
-<img data-src="/img/aboutme/shanghai.png" class = "lazyload" />
+<img data-src="/img/aboutme/shanghai.jpg" class = "lazyload" />
 
 hdslkfjlkfds
 jsdlfjdsl
