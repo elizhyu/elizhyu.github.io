@@ -4,4 +4,4 @@ title: About me
 subtitle: Where you get to know me real quick
 ---
 
-<img src="/img/aboutme/facts.png" width="100%" />
+<img data-src="/img/aboutme/facts.png" class = "lazyload" width="100%" />
