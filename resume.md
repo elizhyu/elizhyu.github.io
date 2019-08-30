@@ -6,8 +6,6 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
-<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
-
 ### Purdue University
 
 **Purdue University**
