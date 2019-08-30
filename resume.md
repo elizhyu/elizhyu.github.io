@@ -88,7 +88,7 @@ Bachelor of Science in Electrical and Computer Engineering Technology
 
 ## VOLUNTEER
 
-<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
 **Purdue Polytechnic Institute**
@@ -96,9 +96,12 @@ Bachelor of Science in Electrical and Computer Engineering Technology
 &emsp;
 Electrical and Computer Engineering Lab Assistant
 
+- ECET 22900 Concurrent Digital Systems
+<br/>*Aug 2017 - Dec 2017*
 - ECET 22400 Electronic Systems
 <br/>*Jan 2017 - May 2017*
-- ECET 
+- ECET 17700 Circuits Problem Solution
+<br/>*Jan 2017 - May 2017*
 
 ---
 
