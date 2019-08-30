@@ -88,6 +88,18 @@ Bachelor of Science in Electrical and Computer Engineering Technology
 
 ## VOLUNTEER
 
+<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
+&emsp;
+**Purdue Polytechnic Institute**
+<br/>
+&emsp;
+Electrical and Computer Engineering Lab Assistant
+
+- ECET 22400 Electronic Systems
+<br/>*Jan 2017 - May 2017*
+- ECET 
+
 ---
 
 ## SKILLS
