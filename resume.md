@@ -16,8 +16,16 @@ Bachelor of Science - 2015 ~ 2019
 
 ## EDUCATION
 
+---
+
 ## VOLUNTEER
+
+---
 
 ## SKILLS
 
+---
+
 ## HORNOR
+
+---
