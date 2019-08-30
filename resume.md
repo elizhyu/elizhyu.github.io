@@ -8,6 +8,15 @@ subtitle: Eli Zhihao Yu
 
 &emsp;
 **Teaching Assistant and Grader**
+<br/>
+&emsp;
+Purdue Polytechnic Institute
+<br/>
+&emsp;
+*Aug 2017 - May 2019*
+
+- a
+- b
 
 ---
 
