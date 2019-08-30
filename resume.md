@@ -8,11 +8,11 @@ subtitle: Eli Zhihao Yu
 
 <img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
-<font color=blue>**Georgia Institute of Technology**</font>
+&emsp;**Georgia Institute of Technology**
 <br/>
-Master of Science - 2020 ~ 2021
+&emsp;Master of Science - 2020 ~ 2021
 <br/>
-*Electrical and Computer Engineering*
+&emsp;*Electrical and Computer Engineering*
 
 <br/>
 
