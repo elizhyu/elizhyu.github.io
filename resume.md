@@ -39,6 +39,23 @@ Purdue Collaborative Robotics Lab
 - Learned about graduate-level research while assisting PhD students under Prof. Richard M. Voyles, the head of Collaborative Robotics Lab, who had led National Robotics Initiative at National Science Foundation, and served at White House in Office of Science and Technology Policy.
 - Participated in robotic projects including bionic robot softskin and modular serpentine robot.
 
+<br/>
+
+<img src="/img/resume/crl.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
+&emsp;
+**Computer Programming Instructor**
+<br/>
+&emsp;
+China Welfare Institute Children’s Palace
+<br/>
+&emsp;
+*Jun 2016 - Aug 2016*
+
+- Provided extra-curriculum programming tutoring on entry level C Language.
+- Taught 20-student-class-size of middle school and high school students.
+- Offered experience and knowledge of computer hardware architecture, C language coding and practical problem solving.
+
 ---
 
 ## EDUCATION
