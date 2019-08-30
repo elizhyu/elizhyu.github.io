@@ -12,11 +12,11 @@ subtitle: Eli Zhihao Yu
 
 <img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
-&emsp;**Georgia Institute of Technology (2020 - 2021)**
+&emsp;
+**Georgia Institute of Technology (2020 - 2021)**
 <br/>
-&emsp;Master of Science
-<br/>
-&emsp;*Electrical and Computer Engineering*
+&emsp;
+*Master of Science in Electrical and Computer Engineering*
 
 <br/>
 
@@ -26,10 +26,7 @@ subtitle: Eli Zhihao Yu
 **Purdue University (2015 - 2019)**
 <br/>
 &emsp;
-Bachelor of Science
-<br/>
-&emsp;
-*Electrical and Computer Engineering Technology*
+*Bachelor of Science in Electrical and Computer Engineering Technology*
 
 ---
 
