@@ -6,9 +6,15 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
+<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
 **Georgia Institute of Technology**
 
 Master of Science - 2020 ~ 2021
+
+*Electrical and Computer Engineering*
+
+
 
 <img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
@@ -16,7 +22,7 @@ Master of Science - 2020 ~ 2021
 
 Bachelor of Science - 2015 ~ 2019
 
-*Electrical&Computer Engineering Technology*
+*Electrical and Computer Engineering Technology*
 
 ---
 
