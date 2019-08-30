@@ -6,6 +6,9 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
+&emsp;
+**Teaching Assistant and Grader**
+
 ---
 
 ## EDUCATION
@@ -13,20 +16,26 @@ subtitle: Eli Zhihao Yu
 <img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
-**Georgia Institute of Technology (2020 - 2021)**
+**Georgia Institute of Technology**
 <br/>
 &emsp;
-*Master of Science in Electrical and Computer Engineering*
+Master of Science in Electrical and Computer Engineering
+<br/>
+&emsp;
+*Jan 2020 - May 2021*
 
 <br/>
 
 <img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
-**Purdue University (2015 - 2019)**
+**Purdue University**
 <br/>
 &emsp;
-*Bachelor of Science in Electrical and Computer Engineering Technology*
+Bachelor of Science in Electrical and Computer Engineering Technology
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
 
 ---
 
