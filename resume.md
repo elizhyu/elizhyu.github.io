@@ -6,7 +6,7 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
-<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 **Georgia Institute of Technology**
 <br/>
