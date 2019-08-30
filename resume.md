@@ -6,11 +6,11 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
-<div style="line-height: 60px; height: 60px;">
-    <p style="display:inline-block;background:url(img/resume/purdue.png) no-repeat left center;padding-left:350px">
-        Purdue University
-    </p>
+<div>
+    <img src="/img/resume/purdue.png" style="vertical-align:middle;">
+    <span>Purdue University</span>
 </div>
+        
 
 ---
 
