@@ -19,9 +19,9 @@ Master of Science - 2020 ~ 2021
 <img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 **Purdue University**
-
+<br/>
 Bachelor of Science - 2015 ~ 2019
-
+<br/>
 *Electrical and Computer Engineering Technology*
 
 ---
