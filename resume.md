@@ -10,7 +10,7 @@ subtitle: Eli Zhihao Yu
 
 Master of Science - 2020 ~ 2021
 
-
+<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 **Purdue University**
 
