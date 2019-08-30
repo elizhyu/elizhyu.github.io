@@ -9,13 +9,30 @@ subtitle: Eli Zhihao Yu
 <img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
-**Teaching Assistant and Grader**
+**Teaching Assistant and Grader of Embedded System**
 <br/>
 &emsp;
 Purdue Polytechnic Institute
 <br/>
 &emsp;
 *Aug 2017 - May 2019*
+
+- Supervise active learning lecture sections
+- Provide one-to-one tutoring during lab sections
+- Assist to design homework questions for better active learning
+- Communicate with students for feedback to improve course efficiency
+- Grade for homework, quizzes, exams, and lab reports
+
+<br/>
+
+&emsp;
+**Undergraduate Research Assistant**
+<br/>
+&emsp;
+Purdue Collaborative Robotics Lab
+<br/>
+&emsp;
+*Oct 2016 - May 2017*
 
 - Supervise active learning lecture sections
 - Provide one-to-one tutoring during lab sections
