@@ -17,11 +17,11 @@ Purdue Polytechnic Institute
 &emsp;
 *Aug 2017 - May 2019*
 
-- Supervise active learning lecture sections
-- Provide one-to-one tutoring during lab sections
-- Assist to design homework questions for better active learning
-- Communicate with students for feedback to improve course efficiency
-- Grade for homework, quizzes, exams, and lab reports
+- Supervised active learning lecture sections.
+- Provided one-to-one tutoring during lab sections.
+- Assisted to design homework questions for better active learning.
+- Communicated with students for feedback to improve course efficiency.
+- Graded for homework, quizzes, exams, and lab reports.
 
 <br/>
 
@@ -34,11 +34,8 @@ Purdue Collaborative Robotics Lab
 &emsp;
 *Oct 2016 - May 2017*
 
-- Supervise active learning lecture sections
-- Provide one-to-one tutoring during lab sections
-- Assist to design homework questions for better active learning
-- Communicate with students for feedback to improve course efficiency
-- Grade for homework, quizzes, exams, and lab reports
+- Learned about graduate-level research while assisting PhD students under Prof. Richard M. Voyles, the head of Collaborative Robotics Lab, who had led National Robotics Initiative at National Science Foundation, and served at White House in Office of Science and Technology Policy.
+- Participated in robotic projects including bionic robot softskin and modular serpentine robot.
 
 ---
 
