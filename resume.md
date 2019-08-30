@@ -121,7 +121,7 @@ Student Volunteer
 
 <br/>
 
-<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<img src="/img/resume/SFM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
 **Shanghai Film Museum**
@@ -130,14 +130,14 @@ Student Volunteer
 Museum Docent
 <br/>
 &emsp;
-*Sep 2015 - May 2019*
+*2013 - 2014*
 
 - I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
 - A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
 
 <br/>
 
-<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
 **Shanghai T'ousewe Museum**
@@ -146,7 +146,7 @@ Museum Docent
 Museum Docent
 <br/>
 &emsp;
-*Sep 2015 - May 2019*
+*2013 - 2014*
 
 - I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
 - A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
