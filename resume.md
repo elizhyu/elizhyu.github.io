@@ -119,6 +119,38 @@ Student Volunteer
 - I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
 - A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
 
+<br/>
+
+<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
+&emsp;
+**Shanghai Film Museum**
+<br/>
+&emsp;
+Museum Docent
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
+
+- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
+- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+
+<br/>
+
+<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
+&emsp;
+**Shanghai T'ousewe Museum**
+<br/>
+&emsp;
+Museum Docent
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
+
+- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
+- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+
 ---
 
 ## SKILLS
