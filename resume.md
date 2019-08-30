@@ -12,9 +12,9 @@ subtitle: Eli Zhihao Yu
 
 <img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
-&emsp;**Georgia Institute of Technology**
+&emsp;**Georgia Institute of Technology (2020 - 2021)**
 <br/>
-&emsp;Master of Science - 2020 ~ 2021
+&emsp;Master of Science
 <br/>
 &emsp;*Electrical and Computer Engineering*
 
@@ -23,10 +23,10 @@ subtitle: Eli Zhihao Yu
 <img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
-**Purdue University**
+**Purdue University (2015 - 2019)**
 <br/>
 &emsp;
-Bachelor of Science - 2015 ~ 2019
+Bachelor of Science
 <br/>
 &emsp;
 *Electrical and Computer Engineering Technology*
