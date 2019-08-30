@@ -132,8 +132,7 @@ Museum Docent
 &emsp;
 *2013 - 2014*
 
-- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
-- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+- I enjoyed demonstrating film culture to local art school visitors as well as tourists, while at the same time enriching my culture life of arts and films.
 
 <br/>
 
@@ -148,8 +147,7 @@ Museum Docent
 &emsp;
 *2013 - 2014*
 
-- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
-- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+- I provided docent service during weekends to help local community with visitors as well as deepening my own understanding of local hometown culture.
 
 ---
 
