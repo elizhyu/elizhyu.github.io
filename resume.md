@@ -103,6 +103,22 @@ Electrical and Computer Engineering Lab Assistant
 - ECET 17700 Circuits Problem Solution
 <br/>*Jan 2017 - May 2017*
 
+<br/>
+
+<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
+&emsp;
+**Purdue BoilerOut Volunteer Program**
+<br/>
+&emsp;
+Student Volunteer
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
+
+- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
+- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+
 ---
 
 ## SKILLS
