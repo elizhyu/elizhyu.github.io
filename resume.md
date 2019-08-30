@@ -6,6 +6,8 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
+<img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
 &emsp;
 **Teaching Assistant and Grader**
 <br/>
