@@ -25,6 +25,8 @@ Purdue Polytechnic Institute
 
 <br/>
 
+<img src="/img/resume/crl.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+
 &emsp;
 **Undergraduate Research Assistant**
 <br/>
