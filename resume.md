@@ -14,7 +14,7 @@ Master of Science - 2020 ~ 2021
 
 *Electrical and Computer Engineering*
 
-
+<br/>
 
 <img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
