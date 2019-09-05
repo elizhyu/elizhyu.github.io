@@ -156,13 +156,29 @@ Museum Docent
 &emsp;
 **Language**
 <br/>
-&emsp;
-Purdue University
-
 - Chinese - *Native Proficiency*
 - Shanghainese - *Native Proficiency*
 - English - *Professional Proficiency*
 - Japanese - *Elementary Proficiency*
+
+&emsp;
+**Embedded System**
+<br/>
+
+- AVR - C51, Atmel
+- FPGA - Altera
+- PLC - Allen Bradley
+
+&emsp;
+**Computer Programming**
+<br/>
+
+- C/C++/C#
+- VB
+- .NET
+- JAVA
+- PHP
+- Python
 
 ---
 
