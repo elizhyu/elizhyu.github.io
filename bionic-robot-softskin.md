@@ -10,7 +10,7 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
         <br/>
         <img src="/img/projects/bionic-robot-softskin/softskin0.jpg" class = "lazyload">
         <br/>
-        <h5>Structure of Neuron in Human Brain</h5>
+        <h6>Structure of Neuron in Human Brain</h6>
         <br/>
         <img src="/img/projects/bionic-robot-softskin/softskin1.png" class = "lazyload">
         <br/>
@@ -22,16 +22,8 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
     <br/>
     <img src="/img/projects/bionic-robot-softskin/softskin2.png" class = "lazyload" width="100%">
     <br/>
-    <i>Synthetic Neural Network architecture with three distinct layers 9 inputs, 5 neurons in hidden layer and 2 outputs</i>
+    <h6 align="middle">Synthetic Neural Network architecture with three distinct layers 9 inputs, 5 neurons in hidden layer and 2 outputs</h6>
     </div>
 </div>
 
 <h2 align="middle">Hexagonal cells of SCP developed in a flexible PCB</h2>
-
-<h3>h3</h3>
-
-<h4>h4</h4>
-
-<h5>h5</h5>
-
-<h6>h6</h6>
