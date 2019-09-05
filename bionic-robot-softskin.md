@@ -8,13 +8,13 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
     <div style="flex:35%;">
         <b>Structure of Neuron in Human Brain</b>
         <br/>
-        <img src="/img/projects/bionic-robot-softskin/softskin0.jpg" class = "lazyload" width="100%">
+        <img src="/img/projects/bionic-robot-softskin/softskin0.jpg" class = "lazyload" width="80%" align="middle">
         <br/>
-        <h6>Structure of Neuron in Human Brain</h6>
+        <h6 align="middle">Structure of Neuron in Human Brain</h6>
         <br/>
-        <img src="/img/projects/bionic-robot-softskin/softskin1.png" class = "lazyload" width="100%">
+        <img src="/img/projects/bionic-robot-softskin/softskin1.png" class = "lazyload" width="80%" align="middle">
         <br/>
-        <h6>An Example of Structured Computational Polymers</h6>
+        <h6 align="middle">An Example of Structured Computational Polymers</h6>
     </div>
     <div style="flex:65%;">
     <h2>Structured Computational Polymers</h2>
