@@ -6,6 +6,8 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
 
 <div>
     <div style="float:left; width:30%">
+        <b>Structure of Neuron in Human Brain</b>
+        <br/>
         <img src="/img/projects/bionic-robot-softskin/softskin0.jpg" class = "lazyload">
         <img src="/img/projects/bionic-robot-softskin/softskin1.png" class = "lazyload">
     </div>
