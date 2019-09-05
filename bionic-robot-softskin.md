@@ -33,6 +33,12 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
 
 <div style="display:flex;">
     <div style="flex:30%;">
+        <h3>Past Works on Softskin Robot</h3>
+        <br/>
+        <b>[1]</b> R.A. Nawrocki, X. Yang, S.E. Shaheen, R.M. Voyles, "Structured computational polymers for a soft robot: actuation and cognition," in IEEE Int. Conf. on Robotics and Automation, April 2011, pp. 5115-5122.
+        <br/>
+        <br/>
+        <b>[2]</b> R.A. Nawrocki, R.M. Voyles, S.E. Shaheen, "Neurons in Polymer: Hardware Neural Units Based on Polymer Memristive Devices and Polymer Transistors," in IEEE Transactions on Electron Devices, v. 61, n. 10, 2014, pp. 3513 - 3519.
     </div>
     <div style="flex:70%;">
         <h3>Implementation for Prototype</h3>
