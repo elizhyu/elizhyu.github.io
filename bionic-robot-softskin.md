@@ -17,8 +17,8 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
         <i>An Example of Structured Computational Polymers</i>
     </div>
     <div style="flex:70%;">
-    ## Structured Computational Polymers
-    **Structured Computational Polymers (SCPs)** are intelligent meta-materials that combine sensing, cognition, and actuation into bulk materials, bridging the gap between novel material characteristics and integrated design paradigms. The research on Softskin Robot in Collaborative Robotics Lab with Dr. Voyles has developed a **neuromorphic architecture** that aims to mimic information processing the way biological systems do. A hardware implementation of an **artificial neural network (ANN)** was completed. The **metal-oxide semiconductor** and **silicon-based memristors (memory resistors)** were utilized as a synapses for synaptic functions such as spike and timing dependent plasticity. In the design, memristors are arranged into a cross-bar with pre- and post-synaptic neurons being locate on adjacent sides of the cross-bar.
+    <h2>Structured Computational Polymers</h2>
+    <b>Structured Computational Polymers (SCPs)</b> are intelligent meta-materials that combine sensing, cognition, and actuation into bulk materials, bridging the gap between novel material characteristics and integrated design paradigms. The research on Softskin Robot in Collaborative Robotics Lab with Dr. Voyles has developed a <b>neuromorphic architecture</b> that aims to mimic information processing the way biological systems do. A hardware implementation of an <b>artificial neural network (ANN)</b> was completed. The <b>metal-oxide semiconductor</b> and <b>silicon-based memristors (memory resistors)</b> were utilized as a synapses for synaptic functions such as spike and timing dependent plasticity. In the design, memristors are arranged into a cross-bar with pre- and post-synaptic neurons being locate on adjacent sides of the cross-bar.
     </div>
 </div>
 
