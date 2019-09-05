@@ -24,3 +24,10 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
 
 <h2 align="middle">Hexagonal cells of SCP developed in a flexible PCB</h2>
 
+<h3>h3</h3>
+
+<h4>h4</h4>
+
+<h5>h5</h5>
+
+<h6>h6</h6>
