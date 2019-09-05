@@ -19,6 +19,10 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
     <div style="flex:70%;">
     <h2>Structured Computational Polymers</h2>
     <b>Structured Computational Polymers (SCPs)</b> are intelligent meta-materials that combine sensing, cognition, and actuation into bulk materials, bridging the gap between novel material characteristics and integrated design paradigms. The research on Softskin Robot in Collaborative Robotics Lab with Dr. Voyles has developed a <b>neuromorphic architecture</b> that aims to mimic information processing the way biological systems do. A hardware implementation of an <b>artificial neural network (ANN)</b> was completed. The <b>metal-oxide semiconductor</b> and <b>silicon-based memristors (memory resistors)</b> were utilized as a synapses for synaptic functions such as spike and timing dependent plasticity. In the design, memristors are arranged into a cross-bar with pre- and post-synaptic neurons being locate on adjacent sides of the cross-bar.
+    <br/>
+    <img src="/img/projects/bionic-robot-softskin/softskin2.png" class = "lazyload">
+    <br/>
+    <i>Synthetic Neural Network architecture with three distinct layers 9 inputs, 5 neurons in hidden layer and 2 outputs</i>
     </div>
 </div>
 
