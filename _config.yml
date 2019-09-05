@@ -21,8 +21,8 @@ description: A Personal Site and Portfolio
 navbar-links:
   Home: ""
   Projects:
-    - Bionic Robot Softskin: "/projects/bionic-robot-softskin/"
-    - Electric Guitar: "/projects/electric-guitar/"
+    - Bionic Robot Softskin: "projects/bionic-robot-softskin/"
+    - Electric Guitar: "projects/electric-guitar/"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
   Resume: "resume"
