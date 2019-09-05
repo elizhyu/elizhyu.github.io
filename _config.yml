@@ -22,8 +22,7 @@ navbar-links:
   Home: ""
   Projects:
     - Bionic Robot Softskin: "projects/bionic-robot-softskin/"
-    - Electric Guitar: "projects/electric-guitar/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Electric Guitar: "projects/electric-guitar/"\
   About Me: "aboutme"
   Resume: "resume"
 
