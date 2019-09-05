@@ -50,6 +50,6 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
         <img src="/img/projects/bionic-robot-softskin/softskin5.jpg" class = "lazyload" width="30%">
         <img src="/img/projects/bionic-robot-softskin/softskin6.jpg" class = "lazyload" width="30%">
         <br/>
-        <h3 align="middle">Prototype for polymer electronics</h3>
+        <h5 align="middle">Prototype for Polymer Electronics</h5>
     </div>
 </div>
