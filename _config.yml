@@ -20,8 +20,8 @@ description: A Personal Site and Portfolio
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Projects:
+    - Bionic Robot Softskin: "bionic-robot-softskin"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
