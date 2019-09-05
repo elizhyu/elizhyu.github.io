@@ -44,6 +44,7 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
         <h3>Implementation for Prototype</h3>
         I had been assisting Praveen Abbaraju, PhD student in CRL to develop a prototype of SCP. The hexagonal cells were designed on a <b>flexible PCB</b>. The synthetic neural network of 9 inputs, 5 hidden layer neurons and 2 outputs was implemented in this PCB design and currently on a testing phase to reduce the error percentage of output results. We are expecting to get a <b>different output value</b> in voltages based on <b>the location of hexagonal cells</b>. M1 through M9 have different x- and y-coordinates and when the voltage was applied to the cell, the output should indicate the difference in location of the hexagonal cells.
         <br/>
+        <br/>
         <img src="/img/projects/bionic-robot-softskin/softskin4.png" class = "lazyload" width="30%">
         <img src="/img/projects/bionic-robot-softskin/softskin5.jpg" class = "lazyload" width="30%">
         <img src="/img/projects/bionic-robot-softskin/softskin6.jpg" class = "lazyload" width="30%">
