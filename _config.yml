@@ -21,7 +21,7 @@ description: A Personal Site and Portfolio
 navbar-links:
   Home: ""
   Projects:
-    - Bionic Robot Softskin: "bionic-robot-softskin"
+    - Bionic Robot Softskin: "/projects/bionic-robot-softskin/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
