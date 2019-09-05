@@ -153,6 +153,17 @@ Museum Docent
 
 ## SKILLS
 
+&emsp;
+**Language**
+<br/>
+&emsp;
+Purdue University
+
+- Chinese - *Native Proficiency*
+- Shanghainese - *Native Proficiency*
+- English - *Professional Proficiency*
+- Japanese - *Elementary Proficiency*
+
 ---
 
 ## HORNOR
