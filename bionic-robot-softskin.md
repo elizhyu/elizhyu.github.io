@@ -4,8 +4,8 @@ title: Bionic Robot Softskin
 subtitle: Development of a flexible polymer meta-material embedded with neuromorphic architecture
 ---
 
-<div>
-    <div style="float:left; width:30%">
+<div style="display:flex;">
+    <div style="flex:30%;">
         <b>Structure of Neuron in Human Brain</b>
         <br/>
         <img src="/img/projects/bionic-robot-softskin/softskin0.jpg" class = "lazyload">
