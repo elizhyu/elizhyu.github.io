@@ -33,7 +33,7 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
 
 <div style="display:flex;">
     <div style="flex:30%;">
-        <h3>Past Works on Softskin Robot</h3>
+        <h4>Past Works on Softskin Robot</h4>
         <br/>
         <b>[1]</b> R.A. Nawrocki, X. Yang, S.E. Shaheen, R.M. Voyles, "Structured computational polymers for a soft robot: actuation and cognition," in IEEE Int. Conf. on Robotics and Automation, April 2011, pp. 5115-5122.
         <br/>
@@ -41,7 +41,7 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
         <b>[2]</b> R.A. Nawrocki, R.M. Voyles, S.E. Shaheen, "Neurons in Polymer: Hardware Neural Units Based on Polymer Memristive Devices and Polymer Transistors," in IEEE Transactions on Electron Devices, v. 61, n. 10, 2014, pp. 3513 - 3519.
     </div>
     <div style="flex:70%;">
-        <h3>Implementation for Prototype</h3>
+        <h4>Implementation for Prototype</h4>
         I had been assisting Praveen Abbaraju, PhD student in CRL to develop a prototype of SCP. The hexagonal cells were designed on a <b>flexible PCB</b>. The synthetic neural network of 9 inputs, 5 hidden layer neurons and 2 outputs was implemented in this PCB design and currently on a testing phase to reduce the error percentage of output results. We are expecting to get a <b>different output value</b> in voltages based on <b>the location of hexagonal cells</b>. M1 through M9 have different x- and y-coordinates and when the voltage was applied to the cell, the output should indicate the difference in location of the hexagonal cells.
         <br/>
         <br/>
