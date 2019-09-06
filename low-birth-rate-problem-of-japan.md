@@ -4,4 +4,4 @@ layout: page
 title: Low Birth Rate Problem of Japan
 ---
 
-<object data="/doc/Low-Birth-Rate-Problem-of-Japan.pdf" width="100%" height="auto" type='application/pdf'></object>
+<object data="/doc/Low-Birth-Rate-Problem-of-Japan.pdf" width="100%" height="100%" type='application/pdf'></object>
