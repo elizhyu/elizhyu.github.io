@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/electric-guitar/
 title: Electric Guitar
+subtitle: Self Designed and Made Spaceship Looking Electric Guitar
 bigimg: /img/projects/electric-guitar/guitar0.jpg
 ---
 
