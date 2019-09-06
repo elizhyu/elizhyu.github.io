@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/electric-guitar/
 title: Electric Guitar
-bigimg: /img/shanghai.jpg
+bigimg: /img/aboutme/shanghai.jpg
 ---
 
 [![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
