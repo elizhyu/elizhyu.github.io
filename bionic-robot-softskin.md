@@ -33,7 +33,7 @@ subtitle: Development of a flexible polymer meta-material embedded with neuromor
 <h2 align="middle">Hexagonal cells of SCP developed in a flexible PCB</h2>
 
 <div style="display:flex;">
-    <div style="flex:30%;">
+    <div style="flex:37%; padding-right:3%;">
         <h4>Past Works on Softskin Robot</h4>
         <br/>
         <b>[1]</b> R.A. Nawrocki, X. Yang, S.E. Shaheen, R.M. Voyles, "Structured computational polymers for a soft robot: actuation and cognition," in IEEE Int. Conf. on Robotics and Automation, April 2011, pp. 5115-5122.
