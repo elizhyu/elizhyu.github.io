@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posts
+permalink: /posts/
 subtitle: This is a archive page for posts
 ---
 
