@@ -23,8 +23,8 @@ navbar-links:
   Projects:
     - Bionic Robot Softskin: "projects/bionic-robot-softskin/"
     - Electric Guitar: "projects/electric-guitar/"
-  Hobbies:
-    - Photography: "photography"
+  Hobbies: "hobbies"
+    - Photography: "hobbies/photography"
   About Me: "aboutme"
   Resume: "resume"
 
