@@ -29,7 +29,9 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <div style="display:flex;">
     <div style="flex:70%;">
-        asf
+        The picture shows a sketch of the guitar's earliest design, of which the idea comes from both *Klingon Battlecruiser* and *Romulan Warbird*, the two alien star ships appeared in Star Trek Franchise.
+        <br/>
+        *(BTW, Star Trek is my favourite movie/TV Show.)*
     </div>
     <div style="flex:24%; border-left:1px solid #f1f1f1; padding:3%;">
         <a href="/img/projects/electric-guitar/guitar1.jpg"><img src="/img/projects/electric-guitar/guitar1_thumbnail.jpg" class = "lazyload" width="95%"></a>
