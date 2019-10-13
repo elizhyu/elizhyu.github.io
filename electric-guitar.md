@@ -3,7 +3,6 @@ layout: page
 permalink: /projects/electric-guitar/
 title: Electric Guitar
 subtitle: Self Designed and Made Spaceship Looking Electric Guitar
-bigimg: /img/projects/electric-guitar/guitar0.jpg
 ---
 
 The electric guitar born in the [Engineering Technology Acoustics Lab](https://polytechnic.purdue.edu/facilities/acoustics-lab) at Purdue University during a **String Instrument Fabrication** course of the [National STEM Guitar Project](http://guitarbuilding.website/) instructed by [Dr. Mark French](https://web.ics.purdue.edu/~rmfrench/index.htm).
