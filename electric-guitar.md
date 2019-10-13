@@ -10,14 +10,13 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        <img src="/img/projects/electric-guitar/Guitar_Four_Parts_Thumbnail.jpg" class = "lazyload" width="80%">
+        <a href="/img/projects/electric-guitar/Guitar_Four_Parts.jpg"><img src="/img/projects/electric-guitar/Guitar_Four_Parts_Thumbnail.jpg" class = "lazyload" width="80%"></a>
     </div>
     <div style="flex:40%;">
-        The final finshed guitar consists of 5 main parts:
+        The final finshed guitar made of 4 main pieces:
         <ul>
-            <li>Headstock</li>
             <li>Neck</li>
-            <li>Neck Nut</li>
+            <li>Nut</li>
             <li>Fretboard</li>
             <li>Body</li>
         </ul>
