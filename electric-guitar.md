@@ -21,7 +21,3 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         </ul>
     </div>
 </div>
-
-<div width="100%" aligh="middle">
-    <script src="https://embed.github.com/view/3d/elizhyu/elizhyu.github.io/master/model/electric-guitar/body.stl"></script>
-</div>
