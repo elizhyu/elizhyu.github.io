@@ -6,12 +6,14 @@ subtitle: Self Designed and Made Spaceship Looking Electric Guitar
 bigimg: /img/projects/electric-guitar/guitar0.jpg
 ---
 
+The electric guitar born in the [Engineering Technology Acoustics Lab](https://polytechnic.purdue.edu/facilities/acoustics-lab) at Purdue University during a **String Instrument Fabrication** course of the [National STEM Guitar Project](http://guitarbuilding.website/) instructed by [Dr. Mark French](https://web.ics.purdue.edu/~rmfrench/index.htm).
+
 <div style="display:flex;">
     <div style="flex:60%;">
-        <img src="/img/projects/electric-guitar/Electric-Guitar.png" class = "lazyload" width="80%">
+        <img src="/img/projects/electric-guitar/Guitar_Four_Parts_Thumbnail.jpg" class = "lazyload" width="80%">
     </div>
     <div style="flex:40%;">
-        The assembled guitar consists of 5 main parts:
+        The final finshed guitar consists of 5 main parts:
         <ul>
             <li>Headstock</li>
             <li>Neck</li>
