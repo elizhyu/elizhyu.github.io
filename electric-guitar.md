@@ -34,6 +34,6 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         *(BTW, Star Trek is my favourite movie/TV Show.)*
     </div>
     <div style="flex:24%; border-left:1px solid #f1f1f1; padding:3%;">
-        <a href="/img/projects/electric-guitar/guitar1.jpg"><img src="/img/projects/electric-guitar/guitar1_thumbnail.jpg" class = "lazyload" width="95%"></a>
+        <a href="/img/projects/electric-guitar/guitar1.jpg" alt="Earliest Guitar Design Idea"><img src="/img/projects/electric-guitar/guitar1_thumbnail.jpg" class = "lazyload" width="95%"></a>
     </div>
 </div>
