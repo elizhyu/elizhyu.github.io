@@ -9,7 +9,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <div style="display:flex;">
     <div style="flex:40%; border-right:1px solid #f1f1f1;">
-        <a href="/img/projects/electric-guitar/Electric-Guitar.jpg"><img src="/img/projects/electric-guitar/Electric-Guitar_Thumbnail.jpg" class = "lazyload" width="96%" style="padding:2%;"></a>
+        <a href="/img/projects/electric-guitar/Electric-Guitar.jpg"><img src="/img/projects/electric-guitar/Electric-Guitar_Thumbnail.jpg" class = "lazyload" height="100%"></a>
     </div>
     <div style="flex:60%;">
         The final finshed guitar made of 4 main pieces:
