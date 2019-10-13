@@ -25,4 +25,12 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <hr />
 
-asfd
+## Design Stage
+
+<div style="display:flex;">
+    <div style="flex:70%;">
+    </div>
+    <div style="flex:24%; border-left:1px solid #f1f1f1; padding:3%;">
+        <a href="/img/projects/electric-guitar/Guitar_Four_Parts.jpg"><img src="/img/projects/electric-guitar/Guitar_Four_Parts_Thumbnail.jpg" class = "lazyload" width="95%"></a>
+    </div>
+</div>
