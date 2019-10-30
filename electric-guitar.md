@@ -45,3 +45,14 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <hr />
 
+<div style="display:flex;">
+    <div style="flex:60%;">
+        The picture shows a sketch of the guitar's earliest design, of which the idea comes from <i>Romulan Warbird</i>, the alien star ship appeared in Star Trek Franchise. (Mostly the top crossview of it.)
+        <br/>
+        <br/>
+        <i>(BTW, Star Trek is my favourite Sci-Fi Franchise.)</i>
+    </div>
+    <div style="flex:34%; border-left:1px solid #f1f1f1; padding:3%;">
+        <a href="/img/projects/electric-guitar/Carboard Prototype.jpg"><img src="/img/projects/electric-guitar/guitar2.jpg" class = "lazyload" height="95%"></a>
+    </div>
+</div>
