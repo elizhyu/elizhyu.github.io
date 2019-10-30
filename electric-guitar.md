@@ -35,6 +35,8 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         <br/>
         <br/>
         <i>(BTW, Star Trek is my favourite Sci-Fi Franchise.)</i>
+        <br/>
+        <a href="/img/projects/electric-guitar/Romulan Warbird.jpg"><img src="/img/projects/electric-guitar/Romulan Warbird.jpg" class = "lazyload" width="95%"></a>
     </div>
     <div style="flex:34%; border-left:1px solid #f1f1f1; padding:3%;">
         <a href="/img/projects/electric-guitar/Earliest Guitar Design.jpg"><img src="/img/projects/electric-guitar/guitar1.jpg" class = "lazyload" width="95%"></a>
