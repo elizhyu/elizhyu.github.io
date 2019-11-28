@@ -59,3 +59,5 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         <a href="/img/projects/electric-guitar/Carboard Prototype.jpg"><img src="/img/projects/electric-guitar/guitar2.jpg" class = "lazyload" height="98%"></a>
     </div>
 </div>
+
+<hr />
