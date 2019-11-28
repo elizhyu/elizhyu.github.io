@@ -111,14 +111,17 @@ Electrical and Computer Engineering Lab Assistant
 **Purdue FIRST Program**
 <br/>
 &emsp;
-Electrical and Computer Engineering Lab Assistant
+State and Regional FIRST Competition Filed Judge
 
-- ECET 22900 Concurrent Digital Systems
-<br/>*Aug 2017 - Dec 2017*
-- ECET 22400 Electronic Systems
-<br/>*Jan 2017 - May 2017*
-- ECET 17700 Circuits Problem Solution
-<br/>*Jan 2017 - May 2017*
+- I provided professional advice on robot structural examination.
+- I provided professional opinion on field conflicts and accidents.
+- I examined final score received by robot teams.
+
+&emsp;
+High School Robotics Tutor
+
+- Our tutoring team taught high school students programming and construction of robots.
+- We taught robot competition experience to high school robot team.
 
 <br/>
 
