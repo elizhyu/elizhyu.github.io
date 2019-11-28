@@ -47,10 +47,9 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        The picture shows a sketch of the guitar's earliest design, of which the idea comes from <i>Romulan Warbird</i>, the alien star ship appeared in Star Trek Franchise. (Mostly the top crossview of it.)
+        As the design concept of the guitar had been decided, we made lots of calculations to find the correct dimensions and sizes of functional guitar parts so that it can eventually work. As shwon in the picture below, important dimensions like neck scale length and bridge position were calculated according to formulas. Also, body thickness was decided according to the actual thickness of the wood plank we had.
         <br/>
-        <br/>
-        <i>(BTW, Star Trek is my favourite Sci-Fi Franchise.)</i>
+        dfs
         <br/>
         <a href="/img/projects/electric-guitar/Design Calculations.jpg"><img src="/img/projects/electric-guitar/guitar3.jpg" class = "lazyload" width="95%"></a>
     </div>
