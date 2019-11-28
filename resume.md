@@ -112,6 +112,9 @@ Electrical and Computer Engineering Lab Assistant
 <br/>
 &emsp;
 State and Regional FIRST Competition Filed Judge
+<br/>
+&emsp;
+*Sep 2016 - May 2019*
 
 - I provided professional advice on robot structural examination.
 - I provided professional opinion on field conflicts and accidents.
@@ -119,6 +122,9 @@ State and Regional FIRST Competition Filed Judge
 
 &emsp;
 High School Robotics Tutor
+<br/>
+&emsp;
+*Sep 2015 - May 2016*
 
 - Our tutoring team taught high school students programming and construction of robots.
 - We taught robot competition experience to high school robot team.
