@@ -49,7 +49,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
     <div style="flex:60%;">
         As the design concept of the guitar had been decided, we made lots of calculations to find the correct dimensions and sizes of functional guitar parts so that it can eventually work. As shwon in the picture below, important dimensions like neck scale length and bridge position were calculated according to formulas. Also, body thickness was decided according to the actual thickness of the wood plank we had.
         <br/>
-        dfs
+        After that, we used lasercut cardboards to make prototypes of our design to have a more straightforward idea of it for us to optimize. Through several iterations, as one of it shown on the right, we had our final shape and dimensions decided.
         <br/>
         <a href="/img/projects/electric-guitar/Design Calculations.jpg"><img src="/img/projects/electric-guitar/guitar3.jpg" class = "lazyload" width="95%"></a>
     </div>
