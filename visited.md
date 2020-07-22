@@ -4,8 +4,67 @@ title: Visited Places
 subtitle: Where I left memories
 ---
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQYXZGd8EyBZN3vzc8lK1fAF8ckvpq9vc&callback=initMap" async defer></script>
 
+<div id="map_canvas"></div>
+<div id="infoPanel">
+	<span id="infoText"></div>
+
+<script>
+    var map;
+    var cities = 0;
+    var blueMarkerColor = "#4346c0";
+    var redMarkerColor = "#10955e";
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map_canvas'), {
+          center: {lat: 20.5937, lng: 78.9629},
+          zoom: 2,
+          disableDefaultUI: true,
+          draggable:false,
+          zoomControl: true,
+    });
+    //Set map style
+    map.set('styles', prestoMap);
+    //Replace the below placeholder with the path to the json file
+    $.getJSON("https://api.myjson.com/bins/27heg", function(json) {
+        for(each in json){
+        	cities = cities + 1;
+        	var myLatLng = {lat: parseFloat(json[each]["lat"]), lng: parseFloat(json[each]["lon"])};
+        	//You can replace the marker colors by changing the values in blueMarkerColor/redMarkerColor
+        	//or creating new variables altogether
+        	var strokeColor = json[each]["purpose"]=="lived"?blueMarkerColor:redMarkerColor;
+        	var marker = new google.maps.Marker({
+            	position: myLatLng,
+            	icon: {
+                path: google.maps.SymbolPath.CIRCLE,
+                scale: 2,
+                strokeColor: strokeColor,
+                fillOpacity: 1,
+                fillColor:strokeColor
+            	},
+              title:json[each]["purpose"],
+              map: map
+        	});
+            attachMessage(marker, json[each]["name"]);
+            // Attaches an info window to a marker with the provided message.
+            function attachMessage(marker, Message) {
+            	console.log(Message)
+            	var infowindow = new google.maps.InfoWindow({
+                	content: Message
+              	});
+              	marker.addListener('mouseover', function() {
+                	infowindow.open(marker.get('map'), marker);
+              	});
+              	marker.addListener('mouseout', function() {
+                infowindow.close(marker.get('map'), marker);
+              	});
+            }
+        }
+        $('#infoText').html(cities + " Cities");
+    });
+    }
+</script>
+<!-- Update the place holder with the Google Maps API Key below-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQYXZGd8EyBZN3vzc8lK1fAF8ckvpq9vc&callback=initMap" async defer></script>
 
 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
