@@ -4,9 +4,9 @@ title: Visited Places
 subtitle: Where I left memories
 ---
 
-<script src="js/ammap.js" type="text/javascript"></script>
-<script src="js/worldHigh.js" type="text/javascript"></script>
-<script src="js/dark.js" type="text/javascript"></script>
+<script src="/js/ammap.js" type="text/javascript"></script>
+<script src="/js/worldHigh.js" type="text/javascript"></script>
+<script src="/js/dark.js" type="text/javascript"></script>
 <div id="mapdiv" style="width: 100%; height: 750px;"></div>
 <div style="width: 100%; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;">The light blue countries visited and grey ones for future, \(0w0)/ if possible.</div>
 <script type="text/javascript">
