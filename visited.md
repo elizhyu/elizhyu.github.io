@@ -92,7 +92,7 @@ areas :
 	{
 		"id": "AU",
 		"showAsSelected": true
-	}
+	},
 	{
 		"id": "SE",
 		"showAsSelected": true
