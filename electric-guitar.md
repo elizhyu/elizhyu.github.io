@@ -5,13 +5,6 @@ title: Electric Guitar
 subtitle: Self Designed and Made Spaceship Looking Electric Guitar
 ---
 
-<!-- Import the component -->
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-<script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-
-<!-- Use it like any other HTML element -->
-<model-viewer src="/model/electric-guitar/Assembled.glb" alt="The Assembled Guitar Model" auto-rotate camera-controls></model-viewer>
-
 The electric guitar born in the [Engineering Technology Acoustics Lab](https://polytechnic.purdue.edu/facilities/acoustics-lab) at Purdue University during a **String Instrument Fabrication** course of the [National STEM Guitar Project](http://guitarbuilding.website/) instructed by [Dr. Mark French](https://web.ics.purdue.edu/~rmfrench/index.htm).
 
 <div style="display:flex;">
