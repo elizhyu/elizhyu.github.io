@@ -1,6 +1,6 @@
 ---
 layout: page
-#permalink: /projects/electric-guitar/
+permalink: /projects/low-birth-rate-problem-of-japan/
 title: Low Birth Rate Problem of Japan
 ---
 
