@@ -64,5 +64,5 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 The final CAD model is finished as shown below:
 
+<script src="https://embed.github.com/view/3d/elizhyu/elizhyu.github.io/master/model/electric-guitar/Electric%20Guitar.stl"></script>
 
-<object data="/model/electric-guitar/Electric Guitar.pdf" width="100%" height="400vh" type='application/pdf'></object>
