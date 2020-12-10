@@ -61,3 +61,8 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 </div>
 
 <hr />
+
+The final CAD model is finished as shown below:
+
+
+<object data="/model/Electric Guitar.pdf" width="100%" height="400vh" type='application/pdf'></object>
