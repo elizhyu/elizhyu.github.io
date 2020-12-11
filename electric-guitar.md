@@ -62,7 +62,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <hr />
 
-The final CAD model by [Autodesk Inventor Pro](https://www.autodesk.com/products/inventor/overview) is finished as shown below:
+The final CAD model by using [Autodesk Inventor Pro](https://www.autodesk.com/products/inventor/overview) is finished as shown below:
 
 <script src="https://embed.github.com/view/3d/elizhyu/elizhyu.github.io/master/model/electric-guitar/Electric%20Guitar.stl"></script>
 
@@ -74,7 +74,7 @@ The final CAD model by [Autodesk Inventor Pro](https://www.autodesk.com/products
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        After the design stage, we used [Inventor HSM(NOW Inventor CAM)](https://www.autodesk.com/products/inventor-cam/overview)</i> CAM software to design CNC routing pathss and generate the G-code compatible with our ShopBot CNC machine.
+        After the design stage, we used <a href="https://www.autodesk.com/products/inventor-cam/overview">Inventor HSM(NOW Inventor CAM)</a> CAM software to design CNC routing pathss and generate the G-code compatible with our <a href="https://www.shopbottools.com/">ShopBot</a> CNC machine.
         <br/>
         <br/>
         We used alignment pins and performed two sided machining to the wood block as shown in the picture below, and the result is shown on right.
@@ -82,7 +82,18 @@ The final CAD model by [Autodesk Inventor Pro](https://www.autodesk.com/products
         <br/>
         <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
     </div>
-    <div style="flex:34%; border-left:1px solid #f1f1f1; padding:3%;">
-        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="98%"></a>
+    <div style="flex:34%; border-left:1px solid #f1f1f1; padding:1%;">
+        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="96%"></a>
+    </div>
+</div>
+
+The neck was then cleaned up by removing the securing tabs, smoothing up the curved back-side, and inserting the truss rod, while the guitar body was CNC fabricated in a similar way to obtain the end result as shown below.
+
+<div style="display:flex;">
+    <div style="flex:49%;">
+        <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
+    </div>
+    <div style="flex:49%; border-left:1px solid #f1f1f1; padding:1%;">
+        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="96%"></a>
     </div>
 </div>
