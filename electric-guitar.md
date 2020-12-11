@@ -80,9 +80,9 @@ The final CAD model is finished as shown below:
         After that, we used lasercut cardboards to make prototypes of our design to have a more straightforward idea of it for us to optimize. Through several iterations, as one of it shown on the right, we had our final shape and dimensions decided.
         <br/>
         <br/>
-        <a href="/img/projects/electric-guitar/CNC Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
+        <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
     </div>
     <div style="flex:34%; border-left:1px solid #f1f1f1; padding:3%;">
-        <a href="/img/projects/electric-guitar/CNC Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="98%"></a>
+        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="98%"></a>
     </div>
 </div>
