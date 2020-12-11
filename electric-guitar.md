@@ -133,7 +133,7 @@ The parts were wired together according to the wiring diagram below by <a href="
         Finally, everything was assembled together as shown on right.
         <br/>
         <br/>
-        Several prototypes were made during the processes introduced above, in order to verify and optimize designs as well as to practice our woodworking skills. As shown in the picture below, a broken neck can be found, which was used to test the neck strength by letting a human stand on it. As the result showed, it was broken and thus the design was optimized to come up with a thicker and stronger connection bridge to the head stock.
+        Several prototypes were made from wasteboard during the processes introduced above, in order to verify and optimize designs as well as to practice our woodworking skills. As shown in the picture below, a broken neck can be found, which was used to test the neck strength by letting a human stand on it. As the result showed, it was broken and thus the design was optimized to come up with a thicker and stronger connection bridge to the head stock.
         <br/>
         <br/>
         <a href="/img/projects/electric-guitar/Prototypes.jpg"><img src="/img/projects/electric-guitar/guitar5.jpg" class = "lazyload" width="97%"></a>
