@@ -98,6 +98,8 @@ The neck was then cleaned up by removing the securing tabs, smoothing up the cur
     </div>
 </div>
 
+<br />
+
 <div style="display:flex;">
     <div style="flex:60%;">
         The guitar body was also cleaned, sealed, and painted. My guitar was black tinted in the picture below.
@@ -113,7 +115,7 @@ The neck was then cleaned up by removing the securing tabs, smoothing up the cur
     </div>
 </div>
 
-The parts are wired together according to the wiring diagram below by <a href="https://www.seymourduncan.com/">Seymour Duncan</a>, and installed onto the guitar body.
+The parts were wired together according to the wiring diagram below by <a href="https://www.seymourduncan.com/">Seymour Duncan</a>, and installed onto the guitar body.
 
 <div style="display:flex;">
     <div style="flex:49%;">
@@ -124,3 +126,19 @@ The parts are wired together according to the wiring diagram below by <a href="h
     </div>
 </div>
 
+<br />
+
+<div style="display:flex;">
+    <div style="flex:60%;">
+        Finally, everything was assembled together as shown on right.
+        <br/>
+        <br/>
+        Several prototypes were made during the processes introduced above, in order to verify and optimize designs as well as to practice our woodworking skills. As shown in the picture below, a broken neck can be found, which was used to test the neck strength by letting a human stand on it. As the result showed, it was broken and thus the design was optimized to come up with a thicker and stronger connection bridge to the head stock.
+        <br/>
+        <br/>
+        <a href="/img/projects/electric-guitar/Prototypes.jpg"><img src="/img/projects/electric-guitar/guitar5.jpg" class = "lazyload" width="97%"></a>
+    </div>
+    <div style="flex:34%; border-left:1px solid #f1f1f1; padding:1%;">
+        <a href="/img/projects/electric-guitar/Finished.jpg"><img src="/img/projects/electric-guitar/guitar6.jpg" class = "lazyload" height="95%"></a>
+    </div>
+</div>
