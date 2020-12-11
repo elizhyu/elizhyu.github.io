@@ -62,7 +62,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <hr />
 
-The final CAD model is finished as shown below:
+The final CAD model by [Autodesk Inventor Pro](https://www.autodesk.com/products/inventor/overview) is finished as shown below:
 
 <script src="https://embed.github.com/view/3d/elizhyu/elizhyu.github.io/master/model/electric-guitar/Electric%20Guitar.stl"></script>
 
@@ -74,10 +74,10 @@ The final CAD model is finished as shown below:
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        
+        After the design stage, we used [Inventor HSM(NOW Inventor CAM)](https://www.autodesk.com/products/inventor-cam/overview)</i> CAM software to design CNC routing pathss and generate the G-code compatible with our ShopBot CNC machine.
         <br/>
         <br/>
-        After that, we used lasercut cardboards to make prototypes of our design to have a more straightforward idea of it for us to optimize. Through several iterations, as one of it shown on the right, we had our final shape and dimensions decided.
+        We used alignment pins and performed two sided machining to the wood block as shown in the picture below, and the result is shown on right.
         <br/>
         <br/>
         <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
