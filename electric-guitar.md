@@ -80,10 +80,10 @@ The final CAD model by using [Autodesk Inventor Pro](https://www.autodesk.com/pr
         We used alignment pins and performed two sided machining to the wood block as shown in the picture below, and the result is shown on right.
         <br/>
         <br/>
-        <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
+        <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="97%"></a>
     </div>
     <div style="flex:34%; border-left:1px solid #f1f1f1; padding:1%;">
-        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="96%"></a>
+        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="95%"></a>
     </div>
 </div>
 
@@ -91,9 +91,9 @@ The neck was then cleaned up by removing the securing tabs, smoothing up the cur
 
 <div style="display:flex;">
     <div style="flex:49%;">
-        <a href="/img/projects/electric-guitar/CNC Neck Start.jpg"><img src="/img/projects/electric-guitar/cnc0.jpg" class = "lazyload" width="95%"></a>
+        <a href="/img/projects/electric-guitar/CNC Body Start.jpg"><img src="/img/projects/electric-guitar/cnc2.jpg" class = "lazyload" width="96%"></a>
     </div>
     <div style="flex:49%; border-left:1px solid #f1f1f1; padding:1%;">
-        <a href="/img/projects/electric-guitar/CNC Neck Finish.jpg"><img src="/img/projects/electric-guitar/cnc1.jpg" class = "lazyload" height="96%"></a>
+        <a href="/img/projects/electric-guitar/CNC Body Finish.jpg"><img src="/img/projects/electric-guitar/cnc3.jpg" class = "lazyload" height="96%"></a>
     </div>
 </div>
