@@ -93,7 +93,34 @@ The neck was then cleaned up by removing the securing tabs, smoothing up the cur
     <div style="flex:49%;">
         <a href="/img/projects/electric-guitar/CNC Body Start.jpg"><img src="/img/projects/electric-guitar/cnc2.jpg" class = "lazyload" width="96%"></a>
     </div>
-    <div style="flex:49%; border-left:1px solid #f1f1f1; padding:1%;">
-        <a href="/img/projects/electric-guitar/CNC Body Finish.jpg"><img src="/img/projects/electric-guitar/cnc3.jpg" class = "lazyload" height="96%"></a>
+    <div style="flex:49%; border-left:1px solid #f1f1f1;">
+        <a href="/img/projects/electric-guitar/CNC Body Finish.jpg"><img src="/img/projects/electric-guitar/cnc3.jpg" class = "lazyload" width="96%"></a>
     </div>
 </div>
+
+<div style="display:flex;">
+    <div style="flex:60%;">
+        The guitar body was also cleaned, sealed, and painted. My guitar was black tinted in the picture below.
+        <br/>
+        <br/>
+        My fretboard was made from purple heart as shown on right, and cut with the <a href="/doc/PLC Fret Slotting.pdf">automatic fret slotting machine</a> made by our old fellow labmate.
+        <br/>
+        <br/>
+        <a href="/img/projects/electric-guitar/Painted Guitar Body.jpg"><img src="/img/projects/electric-guitar/guitar0.jpg" class = "lazyload" width="97%"></a>
+    </div>
+    <div style="flex:34%; border-left:1px solid #f1f1f1; padding:1%;">
+        <a href="/img/projects/electric-guitar/Fretboard.jpg"><img src="/img/projects/electric-guitar/fret.jpg" class = "lazyload" height="95%"></a>
+    </div>
+</div>
+
+The parts are wired together according to the wiring diagram below by <a href="https://www.seymourduncan.com/">Seymour Duncan</a>, and installed onto the guitar body.
+
+<div style="display:flex;">
+    <div style="flex:49%;">
+        <a href="/img/projects/electric-guitar/Wiring.jpg"><img src="/img/projects/electric-guitar/Wiring.jpg" class = "lazyload" width="96%"></a>
+    </div>
+    <div style="flex:49%; border-left:1px solid #f1f1f1;">
+        <a href="/img/projects/electric-guitar/Body Assembled.jpg"><img src="/img/projects/electric-guitar/guitar4.jpg" class = "lazyload" width="96%"></a>
+    </div>
+</div>
+
