@@ -36,19 +36,14 @@ subtitle: Where you know me specifically
     padding: 8px;
   }
 
-  .row {display: inline-block;}
+  .row {
+    display: table;
+    width: 100%;
+  }
 
   /* Create four equal columns that floats next to each other */
   .column {
-    float: left;
-    width: 25%;
-  }
-
-  /* Clear floats after rows */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+    display: table-cell;
   }
 
   /* Content */
@@ -65,16 +60,9 @@ subtitle: Where you know me specifically
     text-align: center;
   }
 
-  /* Responsive layout - makes a two column-layout instead of four columns */
-  @media screen and (max-width: 900px) {
-    .column {
-      width: 50%;
-    }
-  }
-
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
+  @media only screen and (max-width: 600px) {
+    .col { 
+      display: block;
       width: 100%;
     }
   }
