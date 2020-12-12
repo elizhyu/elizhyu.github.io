@@ -51,6 +51,7 @@ subtitle: Where you know me specifically
   .content {
     background-color: #f1f1f1;
     padding: 10px;
+    height: 100%;
   }
 
   h3{
