@@ -7,15 +7,13 @@ subtitle: Where you know me specifically
 <div class="row">
   <div class="column">
     <h3>Bionic Robot Softskin</h3>
-    <a href="/projects/bionic-robot-softskin/"><img src="/img/projects/bionic-robot-softskin.jpg" alt="Bionic Robot Softskin" style="width:100%"></a>
+    <a href="/projects/bionic-robot-softskin/"><img src="/img/projects/bionic-robot-softskin.png" alt="Bionic Robot Softskin" style="width:100%"></a>
     <p>Development of a flexible polymer meta-material embedded with neuromorphic architecture</p>
   </div>
   <div class="column">
     <h3>Electric Guitar</h3>
-    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.jpg" alt="Hobbies" style="width:100%"></a>
+    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Hobbies" style="width:100%"></a>
     <p>Self Designed and Made Spaceship Looking Electric Guitar</p>
-  </div>
-  <div class="column">
   </div>
   <div class="column">
   </div>
