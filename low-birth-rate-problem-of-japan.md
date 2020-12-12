@@ -3,6 +3,8 @@ layout: page
 permalink: /projects/low-birth-rate-problem-of-japan/
 title: Low Birth Rate Problem of Japan
 ---
+{: .box-note}
+**Download:** Get the paper in PDF from [here](/doc/Low-Birth-Rate-Problem-of-Japan.pdf)
 
 ## Abstract
 
@@ -13,13 +15,13 @@ The modern Japan, as one of the world’s strongest economic entity, has facing 
 *Keywords: social issue, Japan, low birth rate, aging society*
 
 
-# Low Birth Rate Problem of Japan - Effects and Causes
+<hr />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Low birth rate problem is one of the most crucial problems of modern society, which would lead to gradually declining population and could exert significant influence on both social structure and economic development. Such problem is pretty common in most developed countries, and Japan has the most severe situation among all.
 
 
-# Effects
+# EFFECTS
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Social problems can usually lead to other problems, and then these problems would result in a worse original problem. So does the low birth rate problem.
@@ -45,7 +47,7 @@ Labor force is the other one being influenced the most by low birth rate in long
 Low birth rate doesn’t only have negative effects in long term, but these positive effects only come after decades of negative effects. Low birth rate would lead to fewer population in long term, and with fewer population burdens on environment, resource, food, and land would all be significantly relieved. Social conflicts would be largely resolved, and elite education would be universal.
 
 
-# Causes
+# CAUSES
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The origin of the low birth rate problem can go back to the Second World War time, when two population booms happened in Japan. According to the 2011 Japan Statistical Yearbook published by Japan’s Ministry of Internal Affairs and Communication in Jan. 2012, the two population booms took place during and after WWII in order to provide more population for the war and get back the population lost in the war. (See Appendix A for Actual Chart)
@@ -102,21 +104,13 @@ Japan has a tradition of after-work drinking. It’s mainly office workers go dr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Migration Policy.** Migration is a good solution to the low birth rate problem. In first place, it can increase the overall population of Japan and provide more newborns. Also, it provides labor force that can help with the labor shortage and economic recovery. However, Japan is a country that doesn’t welcome migration. The current law of Japan is super strict on migration and lots of differences are made in law between dealing with domestic people and migrants. So, while US is using migration to solve its population problem significantly, Japan’s refusal on migration just worsen its low birth rate problem.
 
-# Conclusion
+# CONCLUSION
 
-In order to solve or at least optimize the low birth rate problem, three ways of action can
-be taken based on its causes, social, economic, and political. For social issues, nothing can be
-done about it in short term. They are rooted so deep into the society that even in long term they
-are hard to be changed, and even being changed they can easily get into another undesired state.
-For economic problems, Japan government is currently focusing on it, which has already done a
-good job on recovering the economy a lot and will have more improvements. For political
-difficulties, they are as hard to be changed as social issues, and a reckless policy can make the
-problem even worse. No matter what kind of action is taken in order to solve the low birth rate
-problem, the complexity of the causes of such problem and the consequence of reckless moves
-should always be considered thoroughly.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In order to solve or at least optimize the low birth rate problem, three ways of action can be taken based on its causes, social, economic, and political. For social issues, nothing can be done about it in short term. They are rooted so deep into the society that even in long term they are hard to be changed, and even being changed they can easily get into another undesired state. For economic problems, Japan government is currently focusing on it, which has already done a good job on recovering the economy a lot and will have more improvements. For political difficulties, they are as hard to be changed as social issues, and a reckless policy can make the problem even worse. No matter what kind of action is taken in order to solve the low birth rate problem, the complexity of the causes of such problem and the consequence of reckless moves should always be considered thoroughly.
 
 
-# References
+# REFERENCE
 
 
 COLLIS, W. (2017, November 17). Why Japan's low birth rate makes economic sense.
@@ -150,7 +144,8 @@ Chapnick, J., & Gross, HJ., & Pomerantz, D., & Mould, J. (2013, May). *Understan
 
 Chapter 2: Population and Households. (2012, Jan). *In Japan Statistical Yearbook (2011).* Tokyo: Statistics Bureau. Management and Coordination Agency.
 
-# Appendix A
+# APPENDIX A
 
 ![Japan Population by Age 1920-2010 with Projection to 2060](/img/projects/low-birth-rate-problem-of-japan/appendix-a.png)
+
 **Japan Population by Age 1920-2010 with Projection to 2060**
