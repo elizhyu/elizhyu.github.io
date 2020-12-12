@@ -89,7 +89,7 @@ Also, accuracy is another essential criterion for the performance assessment, th
 
 $$
 \begin{aligned}
-    RMSE = \sqrt{\frac{\sum_{i=1}^{N} ({EDB}_i-(1-\frac{{DMOS}_i}{100}))^2}{N}}
+    RMSE = \sqrt{\frac{\sum_{i=1}^{N} ({EDB}_{i}-(1-\frac{{DMOS}_{i}}{100}))^2}{N}}
 \end{aligned}
 $$
 
