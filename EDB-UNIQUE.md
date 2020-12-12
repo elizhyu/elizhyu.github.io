@@ -88,7 +88,7 @@ In order to validate our new EDB-UNIQUE image quality assessment method, several
 Also, accuracy is another essential criterion for the performance assessment, thus root mean square error is introduced. However, with different scales of the EDB-UNIQUE score and the DMOS (Differential Mean Opinion Score) enclosed in the image databases, some scaling and balancing operations are executed to provide proper meaningful root mean square error data, as shown below.
 
 $$
-RMSE = \sqrt{\frac{\sum_{i=1}^{N} ({EDB}_{i}-(1-\frac{{DMOS}}_{i}}{100}))^2}{N}}
+RMSE = \sqrt{\frac{\sum_{i=1}^{N} ({EDB}_{i}-(1-\frac{{DMOS}_{i}}{100}))^2}{N}}
 $$
 
 where,<br />
