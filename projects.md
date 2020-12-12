@@ -36,6 +36,8 @@ subtitle: Where you know me specifically
     padding: 8px;
   }
 
+  .row {display: inline-block;}
+
   /* Create four equal columns that floats next to each other */
   .column {
     float: left;
