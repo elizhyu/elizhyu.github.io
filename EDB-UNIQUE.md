@@ -28,9 +28,9 @@ In this paper, we develop a new approach based on the original UNIQUE algorithm,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 We transform RGB images into YCbCr images as UNIQUE. UNIQUE picks three channels Y, G and Cr channels as input for patch generation. Different from UNIQUE, we add an additional channel, the edge channel. The main reason for this pre-processing is we want this quality assessment method to pay more attention to edge distortions. In the demonstration of UNIQUE, we found that the sparse representation lost a lot of information in the texture area. Therefore, we want sparse representation to create more features describing edges. Since the number of input values for sparse representation increases, we increase the number of elements in sparse representation consequently.
 
-![The Pipeline of EDB-UNIQUE](/img/projects/edb-unique/flowchart.png)
-
-*Fig. 1. The Pipeline of EDB-UNIQUE*
+| *Fig. 1. The Pipeline of EDB-UNIQUE* |
+| :---: |
+| ![The Pipeline of EDB-UNIQUE](/img/projects/edb-unique/flowchart.png) |
 
 ## Color Space Conversion
 
@@ -56,18 +56,14 @@ L =
 \end{aligned}
 $$
 
-![Visualization of learned features of EDB-UNIQUE](/img/projects/edb-unique/edb_weight.png)
-
-*Fig. 2. Visualization of learned features of EDB-UNIQUE*
-
 ## Linear Decoder Training
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 After applying the edge detection filter to images, and being transformed into the 4-channel color space, like what is done in UNIQUE, 100 of $$ 8\times8 $$ patches are randomly chosen in each individual image and then reshaped into $$ 256\times1 $$ vectors. These vectors are fed into the training algorithm to train sparse representation by minimizing the cost function. Since the number of input elements increases due to the 4th. color space channel, the number of elements in the sparse representation is also increased from 400 to 625. Therefore, each $$ 256\times1 $$ image patch vector would be mapped into a $$ 625\times1 $$ sparse representation vector. As the visualization of learned features of EDB-UNIQUE shown in Fig. 2, more edge features are introduced to the sparse representation of EDB-UNIQUE than that of UNIQUE, resulting in better edge distortion recognition and thus more accurate assessment results.
 
-![Visualization of learned features of UNIQUE](/img/projects/edb-unique/unique_weight.png)
-
-*Fig. 3. Visualization of learned features of UNIQUE*
+| *Fig. 2. Visualization of learned features of EDB-UNIQUE* | *Fig. 3. Visualization of learned features of UNIQUE* |
+| :---: | :---: |
+| ![Visualization of learned features of EDB-UNIQUE](/img/projects/edb-unique/edb_weight.png) | ![Visualization of learned features of UNIQUE](/img/projects/edb-unique/unique_weight.png) |
 
 # VALIDATION
 
@@ -87,16 +83,11 @@ In order to validate our new EDB-UNIQUE image quality assessment method, several
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Also, accuracy is another essential criterion for the performance assessment, thus root mean square error is introduced. However, with different scales of the EDB-UNIQUE score and the DMOS (Differential Mean Opinion Score) enclosed in the image databases, some scaling and balancing operations are executed to provide proper meaningful root mean square error data, as shown below.
 
+![Formula](/img/projects/edb-unique/formula.png)
 
-
-where,<br />
-    $$ RMSE $$: root mean square error<br />
-    $$ EDB_i $$: quality assessment score from EDB-UNIQUE <br />
-    $$ DMOS_i $$: Differential Mean Opinion Score from databases<br />
-
-![Performance result for EDB-UNIQUE and UNIQUE](/img/projects/edb-unique/performance_metrics.png)
-
-*Fig. 4. Performance result for EDB-UNIQUE and UNIQUE*
+| *Fig. 4. Performance result for EDB-UNIQUE and UNIQUE* |
+| :---: |
+| ![Performance result for EDB-UNIQUE and UNIQUE](/img/projects/edb-unique/performance_metrics.png) |
 
 ## Results
 
@@ -106,13 +97,9 @@ As the result shown in Fig. 4, red marks the better performance in corresponding
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Similar behaviors can be observed in the scatter plot of EDB-UNIQUE for both LIVE and MULTI-LIVE databases. From Fig. 5, the data points closer to $$ (1,0) $$ are more uniformly distributed along the regression curve, while those on the other end are farther scattered from the curve. From Fig. 6, all data points within both distortion categories are uniformly distributed along the regression line.
 
-![Scatter plot of quality estimator v.s. objective score for LIVE database](/img/projects/edb-unique/live-scatter.png)
-
-*Fig. 5. Scatter plot of quality estimator v.s. objective score for LIVE database*
-
-![Scatter plot of quality estimator v.s. objective score for MULTI-LIVE database](/img/projects/edb-unique/multi-scatter.png)
-
-*Fig. 6. Scatter plot of quality estimator v.s. objective score for MULTI-LIVE database*
+| *Fig. 5. Scatter plot of quality estimator v.s. objective score for LIVE database* | *Fig. 6. Scatter plot of quality estimator v.s. objective score for MULTI-LIVE database* |
+| :---: | :---: |
+| ![Scatter plot of quality estimator v.s. objective score for LIVE database](/img/projects/edb-unique/live-scatter.png) | ![Scatter plot of quality estimator v.s. objective score for MULTI-LIVE database](/img/projects/edb-unique/multi-scatter.png) |
 
 # CONCLUSION
 
