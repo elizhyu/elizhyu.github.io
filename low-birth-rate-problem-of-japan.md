@@ -21,7 +21,7 @@ div.cls_008{font-family:Times,serif;font-size:12.1px;color:rgb(47,47,47);font-we
 -->
 </style>
 
-<div>
+<body>
 <div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:72.00px;top:42.60px" class="cls_002"><span class="cls_002">LOW BIRTH RATE PROBLEM OF JAPAN</span></div>
 <div style="position:absolute;left:533.88px;top:42.60px" class="cls_002"><span class="cls_002">1</span></div>
@@ -271,4 +271,4 @@ div.cls_008{font-family:Times,serif;font-size:12.1px;color:rgb(47,47,47);font-we
 <div style="position:absolute;left:276.48px;top:106.80px" class="cls_003"><span class="cls_003">Appendix A</span></div>
 <div style="position:absolute;left:160.32px;top:128.52px" class="cls_003"><span class="cls_003">Japan Population by Age 1920-2010 with Projection to 2060</span></div>
 </div>
-</div>
+</body>
