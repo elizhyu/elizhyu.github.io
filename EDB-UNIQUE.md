@@ -113,21 +113,21 @@ We tried to apply the $$ 8\times8 $$ block DCT transformation to the ImageNet da
 
 # REFERENCE
 
-D. Temel, M. Prabhushankar, and G. AlRegib, *"UNIQUE: Unsupervised Image Quality Estimation"*, in IEEE Signal Processing Letters, vol.23, no. 10, pp. 1414-1418, Oct. 2016.
+[1] D. Temel, M. Prabhushankar, and G. AlRegib, *"UNIQUE: Unsupervised Image Quality Estimation"*, in IEEE Signal Processing Letters, vol.23, no. 10, pp. 1414-1418, Oct. 2016.
 
-O. Russakovsky, J. Deng, H. Su, J. Krause, S. Satheesh, S. Ma, Z. Huang, A. Karpathy, A. Khosla, M. Bernstein, A.C. Berg, and L. Fei-Fei, *"ImageNet Large Scale Visual Recognition Challenge"*, IJCV, Jan. 2015.
+[2] O. Russakovsky, J. Deng, H. Su, J. Krause, S. Satheesh, S. Ma, Z. Huang, A. Karpathy, A. Khosla, M. Bernstein, A.C. Berg, and L. Fei-Fei, *"ImageNet Large Scale Visual Recognition Challenge"*, IJCV, Jan. 2015.
 
-H.R. Sheikh, Z. Wang, L. Cormack, and A.C. Bovik, *"LIVE Image Quality Assessment Database Release 2"*, [http://live.ece.utexas.edu/research/quality](http://live.ece.utexas.edu/research/quality).
+[3] H.R. Sheikh, Z. Wang, L. Cormack, and A.C. Bovik, *"LIVE Image Quality Assessment Database Release 2"*, [http://live.ece.utexas.edu/research/quality](http://live.ece.utexas.edu/research/quality).
 
-H.R. Sheikh, M.F. Sabir, and A.C. Bovik, *"A statistical evaluation of recent full reference image quality assessment algorithms"*, IEEE Transactions on Image Processing, vol. 15, no. 11, pp. 3440-3451, Nov. 2006.
+[4] H.R. Sheikh, M.F. Sabir, and A.C. Bovik, *"A statistical evaluation of recent full reference image quality assessment algorithms"*, IEEE Transactions on Image Processing, vol. 15, no. 11, pp. 3440-3451, Nov. 2006.
 
-Z. Wang, A.C. Bovik, H.R. Sheikh, and E.P. Simoncelli, *"Image quality assessment: from error visibility to structural similarity"*, IEEE Transactions on Image Processing , vol.13, no.4, pp. 600- 612, April 2004.
+[5] Z. Wang, A.C. Bovik, H.R. Sheikh, and E.P. Simoncelli, *"Image quality assessment: from error visibility to structural similarity"*, IEEE Transactions on Image Processing , vol.13, no.4, pp. 600- 612, April 2004.
 
-D. Jayaraman, A. Mittal, A.K. Moorthy and A.C. Bovik, *"Objective Quality Assessment of Multiply Distorted Images"*, Proceedings of Asilomar Conference on Signals, Systems and Computers, 2012.
+[6] D. Jayaraman, A. Mittal, A.K. Moorthy and A.C. Bovik, *"Objective Quality Assessment of Multiply Distorted Images"*, Proceedings of Asilomar Conference on Signals, Systems and Computers, 2012.
 
-V.B. Lambrecht, J. Christian, *”Vision models and applications to image and video processing”*, Springer Science and Business Media, 2013.
+[7] V.B. Lambrecht, J. Christian, *”Vision models and applications to image and video processing”*, Springer Science and Business Media, 2013.
 
-M. Tkalcic, and J.F. Tasic, *"Colour spaces: perceptual, historical and
+[8] M. Tkalcic, and J.F. Tasic, *"Colour spaces: perceptual, historical and
 applicational background"*, in EUROCON 2003. Computer as a Tool.
 The IEEE Region 8, vol.1, pp. 304308, Sep. 2003.
 
