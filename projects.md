@@ -44,6 +44,7 @@ subtitle: Where you know me specifically
   /* Create four equal columns that floats next to each other */
   .column {
     display: table-cell;
+    width: 25%;
   }
 
   /* Content */
@@ -61,7 +62,7 @@ subtitle: Where you know me specifically
   }
 
   @media only screen and (max-width: 600px) {
-    .col { 
+    .column { 
       display: block;
       width: 100%;
     }
