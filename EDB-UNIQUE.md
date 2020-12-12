@@ -113,9 +113,9 @@ We tried to apply the $$ 8\times8 $$ block DCT transformation to the ImageNet da
 
 # REFERENCE
 
-D.~Temel, M.~Prabhushankar, and G.~AlRegib, *"UNIQUE: Unsupervised Image Quality Estimation"*, in IEEE Signal Processing Letters, vol.23, no. 10, pp. 1414-1418, Oct. 2016.
+D. Temel, M. Prabhushankar, and G. AlRegib, *"UNIQUE: Unsupervised Image Quality Estimation"*, in IEEE Signal Processing Letters, vol.23, no. 10, pp. 1414-1418, Oct. 2016.
 
-O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang, A.~Karpathy, A.~Khosla, M.~Bernstein, A.C.~Berg, and L.~Fei-Fei, *"ImageNet Large Scale Visual Recognition Challenge"*, IJCV, Jan. 2015.
+O. Russakovsky, J. Deng, H. Su, J. Krause, S. Satheesh, S. Ma, Z. Huang, A. Karpathy, A. Khosla, M. Bernstein, A.C. Berg, and L. Fei-Fei, *"ImageNet Large Scale Visual Recognition Challenge"*, IJCV, Jan. 2015.
 
 H.R. Sheikh, Z. Wang, L. Cormack, and A.C. Bovik, *"LIVE Image Quality Assessment Database Release 2"*, [http://live.ece.utexas.edu/research/quality](http://live.ece.utexas.edu/research/quality).
 
