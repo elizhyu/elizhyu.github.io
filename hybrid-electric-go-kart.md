@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/hybrid-electric-go-kart/
 title: Hybrid Electric Go-Kart
-subtitle: Hybrid electric vehicle designed and fabricated from chasis
+subtitle: Hybrid electric vehicle designed and fabricated from bare chasis
 ---
 
 ![/img/projects/hybrid-electric-go-kart/header.png](/img/projects/hybrid-electric-go-kart/header.png)
