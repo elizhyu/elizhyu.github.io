@@ -38,10 +38,12 @@ subtitle: Where you know me specifically
   <div class="column">
     <h3>Electric Guitar</h3>
     <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
-    <p>Self Designed and Made Spaceship Looking Electric Guitar</p>
+    <p>Self designed and made spaceship looking electric guitar</p>
   </div>
   <div class="column">
-
+    <h3>Hybrid Electric Go-Kart</h3>
+    <a href="/projects/hybrid-electric-go-kart/"><img src="/img/projects/hybrid-electric-go-kart.jpg" alt="Hybrid Electric Go-Kart" style="width:100%"></a>
+    <p>Hybrid electric vehicle modified from golf cart</p>
   </div>
   <div class="column">
   </div>
