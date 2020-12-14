@@ -6,7 +6,7 @@ subtitle: Eli Zhihao Yu
 
 ## EXPERIENCE
 
-<img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Teaching Assistant and Grader of Embedded System**
@@ -25,7 +25,7 @@ Purdue Polytechnic Institute
 
 <br/>
 
-<img src="/img/resume/crl.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://www.purdue.edu/crl/" target="_blank"><img src="/img/resume/crl.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Undergraduate Research Assistant**
@@ -36,12 +36,12 @@ Purdue Collaborative Robotics Lab
 &emsp;
 *Oct 2016 - May 2017*
 
-- Learned about graduate-level research while assisting PhD students under Prof. Richard M. Voyles, the head of Collaborative Robotics Lab, who had led National Robotics Initiative at National Science Foundation, and served at White House in Office of Science and Technology Policy.
+- Learned about graduate-level research while assisting PhD students under Prof. [Richard M. Voyles](https://polytechnic.purdue.edu/profile/rvoyles), the head of [Collaborative Robotics Lab](https://www.purdue.edu/crl/), who had led National Robotics Initiative at National Science Foundation, and served at White House in Office of Science and Technology Policy.
 - Participated in robotic projects including bionic robot softskin and modular serpentine robot.
 
 <br/>
 
-<img src="/img/resume/cwicp.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="http://www.cwikids.org/" target="_blank"><img src="/img/resume/cwicp.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Computer Programming Instructor**
@@ -60,7 +60,7 @@ China Welfare Institute Children’s Palace
 
 ## EDUCATION
 
-<img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Georgia Institute of Technology**
@@ -73,7 +73,7 @@ Master of Science in Electrical and Computer Engineering
 
 <br/>
 
-<img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Purdue University**
@@ -88,7 +88,7 @@ Bachelor of Science in Electrical and Computer Engineering Technology
 
 ## VOLUNTEER
 
-<img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Purdue Polytechnic Institute**
@@ -105,7 +105,7 @@ Electrical and Computer Engineering Lab Assistant
 
 <br/>
 
-<img src="/img/resume/PFP.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://www.purduefirst.org/" target="_blank"><img src="/img/resume/PFP.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Purdue FIRST Program**
@@ -131,7 +131,7 @@ High School Robotics Tutor
 
 <br/>
 
-<img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://www.purdue.edu/IPPU/ISS/Student/Programming/BoilerOUT/index.html" target="_blank"><img src="/img/resume/BoilerOut.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Purdue BoilerOut Volunteer Program**
@@ -147,7 +147,7 @@ Student Volunteer
 
 <br/>
 
-<img src="/img/resume/SFM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://en.wikipedia.org/wiki/Shanghai_Film_Museum" target="_blank"><img src="/img/resume/SFM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Shanghai Film Museum**
@@ -162,7 +162,7 @@ Museum Docent
 
 <br/>
 
-<img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
+<a href="https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum" target="_blank"><img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Shanghai T'ousewe Museum**
