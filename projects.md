@@ -43,7 +43,7 @@ subtitle: Where you know me specifically
   <div class="column">
     <h3>Hybrid Electric Go-Kart</h3>
     <a href="/projects/hybrid-electric-go-kart/"><img src="/img/projects/hybrid-electric-go-kart.jpg" alt="Hybrid Electric Go-Kart" style="width:100%"></a>
-    <p>Hybrid electric vehicle modified from golf cart</p>
+    <p>Hybrid electric vehicle designed and fabricated from chasis</p>
   </div>
   <div class="column">
   </div>
