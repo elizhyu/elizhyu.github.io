@@ -11,7 +11,7 @@ subtitle: Hybrid electric vehicle designed and fabricated from bare chasis
 
 The goal of the project was to develop a detailed design and an action plan, through performing research on existing electric vehicle systems, developing a procurement plan for electric vehicle components, designing and fabricating custom electric vehicle components, and constructing a hybrid electric vehicle.
 
-## Members and Roles
+### Members and Roles
 
 - Eli Yu - Circuit design and electrical system integration
 - James Thompson - Mechanical system design and fabrication
@@ -32,7 +32,7 @@ As the project was based on an old two-seat go-kart chasis for salvage, several 
 
 # Electrical Design
 
-## Control Panel
+### Control Panel
 
 The control panel consists of 1 E-Stop button, 3 two-position switches, 1 three-position switch, and 4 LED indicators(2 of them currently not in used).
 <br>
@@ -40,7 +40,7 @@ From top to bottom, the switches are used to turn on and off the BMS, DC step-do
 
 ![/img/projects/hybrid-electric-go-kart/control-panel.png](/img/projects/hybrid-electric-go-kart/control-panel.png)
 
-## Battery Management System
+### Battery Management System
 
 The BMS is connected to the control panel through Connector #2, and the power exchange between BMS and DC step-down module is through the Power Connector.
 <br>
@@ -50,13 +50,13 @@ The ‘Octopus’ Harness is an acrylic shielded high voltage 48V power bus with
 
 ![/img/projects/hybrid-electric-go-kart/bms.png](/img/projects/hybrid-electric-go-kart/bms.png)
 
-## Motor Controller
+### Motor Controller
 
 The motor controller is controlled by the control panel via its connection through Connector #4 and Connector #3.
 
 ![/img/projects/hybrid-electric-go-kart/motor-controller.png](/img/projects/hybrid-electric-go-kart/motor-controller.png)
 
-## Gas Engine Control System
+### Gas Engine Control System
 
 The gas engine control system is relatively more isolated, while only taking the 48V and 12V power from the rest of the system. More detailed explanation can be found in Microcontroller System.
 
