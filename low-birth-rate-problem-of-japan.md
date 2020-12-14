@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/low-birth-rate-problem-of-japan/
 title: Low Birth Rate Problem of Japan
+subtitle: The effects and the causes
 ---
 {: .box-note}
 **Download:** Get the paper in PDF from [here](/doc/Low-Birth-Rate-Problem-of-Japan.pdf)
