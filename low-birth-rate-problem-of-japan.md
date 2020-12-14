@@ -7,7 +7,7 @@ subtitle: The effects and the causes
 {: .box-note}
 **Download:** Get the paper in PDF from [here](/doc/Low-Birth-Rate-Problem-of-Japan.pdf)
 
-## Abstract
+# Abstract
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The modern Japan, as one of the world’s strongest economic entity, has facing a serious and emergent social problem, low birth rate. Such problem is leading to several negative consequences, including the lack of post-retirement care, shrinking child-related industries, lack of future labor force, aging society, etc. All these negative effects would cause serious problems in a variety of aspects of society and eventually lead to unstable society or even social collapse. So in order to figure out the possible solutions to the low birth rate problem as well as its co-producing social issues, it’s necessary to find out the causes of such problem first. The original cause of the problem can go back to the post-World War II era when Japan experienced a population boom by lowering marriageable age and encouraging multiple birth to recover the loss of population during war time and to fulfill the lack of labor force. However, the birth rate gradually declines during the following years, eventually causing the problem of aging society and low birth rate. Other than the main cause, there are several other causes accelerating the process and make such problem more serious and urgent, including the economic issue, social stress, working women, and government policy. Throughout the investigation of causes of low birth rate problem, solutions are going to be concluded in the following paper by finding methods alleviating or eliminating these causes as well as learning from the experience of other developed countries facing the same birth rate problem.
@@ -27,7 +27,7 @@ Low birth rate problem is one of the most crucial problems of modern society, wh
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Social problems can usually lead to other problems, and then these problems would result in a worse original problem. So does the low birth rate problem.
 
-## Short Term
+### Short Term
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 In short term, low birth rate means fewer children. Education would be the first thing influenced by fewer children. Education Facilities from kindergarten to college, including public schools, private schools, and cram schools, would face great challenges with limited source of students. Also, teaching job opportunities would shrink drastically, and facing job crisis from both competition and abandon of facilities, teachers would more likely become estranged from students and have lower teaching quality.
@@ -36,7 +36,7 @@ In short term, low birth rate means fewer children. Education would be the first
 Other than education, manufactures and producers related to children would be confronted with close-down crisis and keen competition. Industries like baby supply industry, toy industry, and children’s books industry would be most significantly impacted. Other industries like dairy products industry would be less influenced and still have a chance to open up new markets in replace.
 
 
-## Long Term
+### Long Term
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 In long term, low birth rate would have greater and worse impact on education. Lots of education facilities in communities with fewer newborns would close down, and school age children from those places have to attend schools in cities or larger communities. Since the whole family would usually migrate together, it can lead to the dramatical trend of migrating to cities and the abandon of villages and towns.
@@ -56,7 +56,7 @@ The origin of the low birth rate problem can go back to the Second World War tim
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The low birth rate problem didn’t become one of the most crucial problems of Japan only by the population booms. Instead, it’s the result of many minor causes, which accelerate and worsen such problem. These minor causes of the low birth rate problem in Japan are pretty diverse, including social causes, economic causes, and political causes.
 
-## Social Causes
+### Social Causes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Population.** The low birth rate problem is causing various population problems in Japan, and these problems are back accelerating the low birth rate problem. One main population problem Japan is facing is the other side of the low birth rate, aging society. As a society with huge portion of aged people, there are fewer young adults in the Japan society that are able to marry and give birth to children. The low birth rate problem itself is forming a vicious circle.
@@ -80,7 +80,7 @@ Even within those groups not interested in virtual love, there is a great portio
 **Physiology.** During the ISPOR 18th Annual International Meeting in May 2013, statistics show that among Japanese males there is an erectile dysfunction rate of around 40% due to both physical and psychological factors. No matter it caused by biological issue or living pressure, such high ED rate does address part of the low birth rate problem among married people.
 
 
-## Economic Causes
+### Economic Causes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Financial Pressure.** Japan has an unfriendly economic environment for those who want to form a family and give birth to kids. First, Japan has just passed its economic growth peak, which means that even though its economy is still growing, it’s slowing down. As a result, most young generation of Japan, who were born in a rich environment with fast-growing economy, don’t think they can achieve better life quality when they start living by their own. The lack of financial confidence makes them less likely to consider marriage rather than maintaining life quality. Secondly, the economic bubble happened in the 90s and the several natural disasters happened after 2000 gave another punch on the face of Japan economy. Even decades after, Japan is still working on recovering its economy today. So most young people are more interested in working on a better future rather than marrying early. Third, Japan has World’s second largest urban to rural population ratio right after Great Britain, another island country. With a urban population taking 78% of the total population, Japan has a serious problem of high city life cost and low income in contrast. While income is already insufficient to support a better life in cities, young people living in cities are definitely less likely to get married or give birth, which are both going to add extra burden on living cost.
@@ -94,7 +94,7 @@ Japan has a tradition of after-work drinking. It’s mainly office workers go dr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Office Lady.** Talking about office ladies, what comes to most people’s mind first is their attractive appearance instead of their difficulty at work. Regardless of the discrimination Japanese female workers are facing, for those who want to reach higher position, they would lose their chance of promotion in most companies once if they get married. The reason behind is that most companies are worrying about putting too much responsibility on a married woman who can take test at any time once pregnant. Some companies even refuse to hire unmarried women since it’s possible for them to get married and get pregnant shortly after. Such latent rule stops lots of women who want to have their own job from marrying or giving birth. Many of those are willing to or have to give promises to their companies for promotion opportunities.
 
-## Political Causes
+### Political Causes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Coerciveness.** In Japan, marriage and reproduction are both private things that even if government have policies on them, they can not be mandatory. Instead, Japanese government only has the right to encourage people to marry or reproduce to solve the low birth rate problem rather than forcing.
