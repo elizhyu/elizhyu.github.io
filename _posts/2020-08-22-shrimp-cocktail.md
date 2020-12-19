@@ -8,6 +8,7 @@ bigimg: /img/cooking/shrimp-cocktail/1.jpeg
 ---
 
 Shrimp cocktail, also known as prawn cocktail, is a seafood dish consisting of shelled, cooked prawns in a Marie Rose sauce or cocktail sauce, served in a glass. It was the most popular hors d'œuvre in Great Britain, as well as in the United States, from the 1960s to the late 1980s.
+
 ---
 
 **Ingredients:**
