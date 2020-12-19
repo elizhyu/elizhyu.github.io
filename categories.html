@@ -1,0 +1,96 @@
+---
+layout: page
+title: Cookbook
+subtitle: of recipes I've tried
+permalink: /hobbies/cookbook/
+---
+
+{%- capture site_cats -%}
+    {%- for cat in site.categories -%}
+        {{- cat | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign cats_list = site_cats | split:',' | sort -%}
+
+{%- for cat in cats_list -%}
+    <a href="#{{- cat -}}" class="btn btn-primary tag-btn">{{- cat -}}&nbsp;({{site.categories[cat].size}})</a>
+{%- endfor -%}
+
+<div id="full-tags-list">
+{%- for cat in cats_list -%}
+    <br>
+    <h2 id="{{- cat -}}">
+        Category&nbsp;<u>{{- cat -}}</u>&nbsp;({{site.categories[cat].size}})
+    </h2>
+    <hr>
+    <!--
+    <div class="post-list">
+        {%- for post in site.categories[cat] -%}
+            <div class="tag-entry">
+                <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
+                <div class="entry-date">
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%B %d, %Y" -}}</time>
+                </div>
+            </div>
+        {%- endfor -%}
+    </div>
+    -->
+    {% assign num = 0 %}
+    {%- for post in site.categories[cat] -%}
+        {% assign num = num | plus: 1 %}
+        {% if num == 1 %}
+            <div class="row">
+        {% endif %}
+                <div class="column">
+                    <a href="{{ post.url }}"><img src="{{ post.bigimg }}" class="lazyload"/></a>
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.subtitle }}</p>
+                </div>
+        {% if num == 3 %}
+            {% assign num = 0 %}
+            </div>
+        {% endif %}
+    {% endfor %}
+    {% if num != 0 %}
+            </div>
+    {% endif %}
+
+{%- endfor -%}
+</div>
+
+<style>
+
+    .row,
+    .row > .column {
+      padding: 18px;
+    }
+  
+    .row {
+      display: table;
+      width: 100%;
+    }
+  
+    /* Create four equal columns that floats next to each other */
+    .column {
+      background-color: #f1f1f1;
+      display: table-cell;
+      width: 33%;
+      border: 10px solid white;
+    }
+  
+    h3{
+      text-align: left;
+    }
+
+    p{
+      text-align: left;
+    }
+  
+    @media only screen and (max-width: 600px) {
+      .column { 
+        display: block;
+        width: 100%;
+      }
+    }
+  
+  </style>
