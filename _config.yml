@@ -18,10 +18,7 @@ description: A Personal Site and Portfolio
 navbar-links:
   Home: ""
   Projects: "projects"
-  Hobbies:
-    - Photography: "hobbies/photography"
-    - Cooking: "ELI-cookbook"
-    - Visited Places: "visited"
+  Hobbies: "hobbies"
   About Me: "aboutme"
   Resume: "resume"
 
@@ -165,8 +162,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
