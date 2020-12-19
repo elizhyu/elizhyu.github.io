@@ -2,6 +2,7 @@
 layout: page
 title: Visited Places
 subtitle: Where I left memories
+permalink: /hobbies/visited/
 ---
 
 <script src="/js/ammap.js" type="text/javascript"></script>
