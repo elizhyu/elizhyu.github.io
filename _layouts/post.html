@@ -32,6 +32,15 @@ layout: base
       {% endif %}
       
       {{ content }}
+      
+      {% if page.categories.size > 0 %}
+        <div class="blog-tags">
+          Categories:
+          {% for cate in page.categories %}
+            <a href="{{ site.baseurl }}/hobbies/cookbook#{{- cate -}}">{{- cate -}}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
@@ -53,12 +62,12 @@ layout: base
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; {{ page.previous.title }}</a>
         </li>
         {% endif %}
         {% if page.next.url %}
         <li class="next">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">{{ page.next.title }} &rarr;</a>
         </li>
         {% endif %}
       </ul>
