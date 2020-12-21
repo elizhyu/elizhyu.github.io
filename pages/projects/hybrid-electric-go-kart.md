@@ -320,12 +320,25 @@ Through the integration of voltage times current over time, the actual energy co
 
 ### First Road Test
 
+<div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 ratio, 75% for 4:3 -->
+ <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/DZhD1u15GrI">
+</iframe>
+</div>
+<!--
 <video width="100%" height="100%" controls>
   <source src="/img/projects/hybrid-electric-go-kart/drive-test.mp4" type="video/mp4">
 </video>
+-->
+<br>
 
 ### Grip and Structure Integrity Test
 
+<!--
 <video width="100%" height="100%" controls>
   <source src="/img/projects/hybrid-electric-go-kart/grip-test.mp4" type="video/mp4">
 </video>
+-->
+<div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 ratio, 75% for 4:3 -->
+ <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/N4e_TS6dAOI">
+</iframe>
+</div>
