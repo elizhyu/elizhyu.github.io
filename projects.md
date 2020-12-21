@@ -56,6 +56,20 @@ subtitle: Where you know me specifically
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <h3>Mic Amplifier</h3>
+    <a href="/projects/mic-amplifier/"><img src="/img/projects/mic-amp.png" alt="Mic Amplifier" style="width:100%"></a>
+    <p>A mic amplifier capable of both balanced and unbalanced input signal, noise filtering, 5-band equalizing, and 25.92W max output power</p>
+  </div>
+
+  <div class="column">
+  </div>
+
+  <div class="column">
+  </div>
+</div>
+
 <style>
 
   .row,
