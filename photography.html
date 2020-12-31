@@ -1,0 +1,75 @@
+---
+layout: page
+title: Photography
+subtitle: Imprint the World in unique perspectives
+permalink: /hobbies/photography/
+---
+
+<blockquote>
+  Feel free to use these photos, but I would be glad ^_^ if you can cite me or my website for credits.
+</blockquote>
+
+
+{% assign num = 0 %}
+
+{% assign set_pages = site.pages | where: "layout", "set" %}
+{% for set_page in set_pages %}
+  {% assign num = num | plus: 1 %}
+  {% if num == 1 %}
+    <div class="row">
+  {% endif %}
+      <div class="column">
+        <h3>{{ set_page.title }}</h3>
+        <a href="{{ set_page.url | prepend: site.baseurl }}"><img src="{{ site.baseurl }}/img/photos/{{ set_page.set }}/{{ set_page.cover }}" class="lazyload"/></a>
+        <p>{{ set_page.subtitle }}</p>
+      </div>
+  {% if num == 3 %}
+    {% assign num = 0 %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+{% if num != 0 %}
+    </div>
+{% endif %}
+
+
+
+
+
+<style>
+
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+
+  .row {
+    display: table;
+    width: 100%;
+  }
+
+  /* Create four equal columns that floats next to each other */
+  .column {
+    background-color: #f1f1f1;
+    display: table-cell;
+    width: 33%;
+    border: 10px solid white;
+  }
+
+  h3{
+    text-align: center;
+  }
+  
+  p{
+    text-align: center;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .column { 
+      display: block;
+      width: 100%;
+    }
+  }
+
+</style>
