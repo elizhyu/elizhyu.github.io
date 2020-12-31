@@ -1,0 +1,91 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<hr>
+
+{% for photo in page.photos %}
+<div class="row">
+  <div class="wide-column">
+    <a href="/img/photos/{{ page.set }}/{{ photo.file }}"><img src="/img/photos/{{ page.set }}/thumbs/{{ photo.thumb }}" width="100%" class="lazyload" /></a>
+    <h3>{{ photo.title }}</h3>
+  </div>
+  <div class="column">    
+    <p>
+      <i class="material-icons">event</i>
+      &nbsp;{% if photo.taken %}{{ photo.taken }}{% else %}N/A{% endif %}
+      <br>
+      <i class="material-icons" style="font-size:22px;">camera_alt</i>&nbsp;
+      {% if photo.maker %}
+        {{ photo.maker }}&nbsp;|&nbsp;
+      {% endif %}
+      {% if photo.model %}{{ photo.model }}{% else %}N/A{% endif %}
+      <br>
+      <i class="material-icons" style="font-size:22px;">timer</i>
+      &nbsp;{% if photo.exposure %}{{ photo.exposure }}&nbsp;sec.{% else %}N/A{% endif %}
+      <br>
+      <i class="material-icons" style="font-size:22px;">camera</i>
+      &nbsp;{% if photo.aperture %}f/{{ photo.aperture }}{% else %}N/A{% endif %}
+      <br>
+      <i class="material-icons" style="font-size:20px;">iso</i>
+      &nbsp;{% if photo.iso %}ISO-{{ photo.iso }}{% else %}N/A{% endif %}
+      <br>
+      <i class="material-icons" style="font-size:20px;">center_focus_weak</i>
+      &nbsp;{% if photo.focal %}{{ photo.focal }}&nbsp;mm{% else %}N/A{% endif %}
+      <br>
+    </p>
+    <p>{{ photo.description }}</p>
+  </div>
+</div>
+{% endfor %}
+
+
+<div>
+  <a href="{{ site.baseurl }}/hobbies/photography"><h3>View All Albums</h3></a>
+</div>
+
+<style>
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+
+  .row {
+    display: table;
+    width: 100%;
+  }
+
+  /* Create four equal columns that floats next to each other */
+  .column {
+    background-color: #f1f1f1;
+    display: table-cell;
+    width: 59%;
+    border: 10px solid white;
+    vertical-align: top;
+  }
+
+  .wide-column {
+    background-color: #f1f1f1;
+    display: table-cell;
+    width: 40%;
+    border: 10px solid white;
+  }
+
+  h3{
+    text-align: center;
+  }
+  
+  p{
+    text-align: left;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .column { 
+      display: block;
+      width: 100%;
+    }
+  }
+
+</style>
