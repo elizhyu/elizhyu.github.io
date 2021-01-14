@@ -116,9 +116,9 @@ State and Regional FIRST Competition Filed Judge
 &emsp;
 *Sep 2016 - May 2019*
 
-- I provided professional advice on robot structural examination.
-- I provided professional opinion on field conflicts and accidents.
-- I examined final score received by robot teams.
+- Provided professional advice on robot structural examination.
+- Provided professional opinion on field conflicts and accidents.
+- Examined final score received by robot teams.
 
 &emsp;
 High School Robotics Tutor
@@ -126,8 +126,8 @@ High School Robotics Tutor
 &emsp;
 *Sep 2015 - May 2016*
 
-- Our tutoring team taught high school students programming and construction of robots.
-- We taught robot competition experience to high school robot team.
+- Taught high school students programming and construction of robots.
+- Taught robot competition experience to high school robot team.
 
 <br/>
 
@@ -142,8 +142,8 @@ Student Volunteer
 &emsp;
 *Sep 2015 - May 2019*
 
-- I worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
-- A variety of volunteer work were done to benefit Purdue organizations and students as well as local Lafayette community.
+- Worked with both International and American students of Purdue University to do meaningful community service projects that reflect Outreach, Understanding, and Teamwork.
+- Did a variety of volunteer work to benefit Purdue organizations and students as well as local Lafayette community.
 
 <br/>
 
@@ -158,7 +158,7 @@ Museum Docent
 &emsp;
 *2013 - 2014*
 
-- I enjoyed demonstrating film culture to local art school visitors as well as tourists, while at the same time enriching my culture life of arts and films.
+- Demonstrated film culture to local art school visitors as well as tourists, while at the same time enriched my culture life of arts and films.
 
 <br/>
 
@@ -173,7 +173,7 @@ Museum Docent
 &emsp;
 *2013 - 2014*
 
-- I provided docent service during weekends to help local community with visitors as well as deepening my own understanding of local hometown culture.
+- Provided docent service during weekends to help local community known to the visitors as well as deepening my own understanding of my hometown culture.
 
 ---
 
@@ -211,21 +211,32 @@ Museum Docent
 ## HORNOR
 
 &emsp;
-**Bachelor of Science, Graduate with Distintion**
+**Bachelor of Science, Graduate with Distinction**
 <br/>
-&emsp;
-Purdue University
+&emsp;&emsp;
+Issued by *Purdue University*
 <br/>
-&emsp;
-*May 2019*
+&emsp;&emsp;
+on *May 2019*
 
 &emsp;
 **Dean's List & Semester Honors**
 <br/>
-&emsp;
-Purdue Polytechnic Institute
+&emsp;&emsp;
+Issued by *Purdue Polytechnic Institute*
 <br/>
-&emsp;
-*Fall 2015, Fall 2016, Spring 2017, Fall 2017, Spring 2018, Fall 2018, Spring 2019*
+&emsp;&emsp; - on *Dec 2015* for Fall 2015 Semester
+<br/>
+&emsp;&emsp; - on *Dec 2016* for Fall 2016 Semester
+<br/>
+&emsp;&emsp; - on *May 2017* for Spring 2017 Semester
+<br/>
+&emsp;&emsp; - on *Dec 2017* for Fall 2017 Semester
+<br/>
+&emsp;&emsp; - on *May 2018* for Spring 2018 Semester
+<br/>
+&emsp;&emsp; - on *Dec 2018* for Fall 2018 Semester
+<br/>
+&emsp;&emsp; - on *May 2019* for Spring 2019 Semester
 
 ---
