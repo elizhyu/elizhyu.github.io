@@ -208,7 +208,7 @@ Museum Docent
 
 ---
 
-## HORNOR
+## HONOR
 
 &emsp;
 **Bachelor of Science, Graduate with Distinction**
