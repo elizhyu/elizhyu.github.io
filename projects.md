@@ -37,17 +37,15 @@ subtitle: Where you know me specifically
 
 <br />
 
-<br />
-
 ## Design & Fabrication
 
 ---
 
 <div class="row">
   <div class="column">
-    <h3>Electric Guitar</h3>
-    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
-    <p>Self designed and made spaceship looking electric guitar</p>
+    <h3>Stackable Tool Tray Organization Solution</h3>
+    <a href="/projects/stackable-tool-tray-organization-solution/"><img src="/img/projects/stackable-tool-tray-organization-solution.png" alt="Stackable Tool Tray Organization Solution" style="width:100%"></a>
+    <p>A 3D printing solution for organizing different kinds of tools in various specifically designed stackable trays.</p>
   </div>
 
   <div class="column">
@@ -65,12 +63,15 @@ subtitle: Where you know me specifically
 
 <div class="row">
   <div class="column">
-    <h3>Mic Amplifier</h3>
-    <a href="/projects/mic-amplifier/"><img src="/img/projects/mic-amp.png" alt="Mic Amplifier" style="width:100%"></a>
-    <p>A mic amplifier capable of both balanced and unbalanced input signal, noise filtering, 5-band equalizing, and 25.92W max output power</p>
+    <h3>Electric Guitar</h3>
+    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
+    <p>Self designed and made spaceship looking electric guitar</p>
   </div>
 
   <div class="column">
+    <h3>Mic Amplifier</h3>
+    <a href="/projects/mic-amplifier/"><img src="/img/projects/mic-amp.png" alt="Mic Amplifier" style="width:100%"></a>
+    <p>A mic amplifier capable of both balanced and unbalanced input signal, noise filtering, 5-band equalizing, and 25.92W max output power</p>
   </div>
 
   <div class="column">
