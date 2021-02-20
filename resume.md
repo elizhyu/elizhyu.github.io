@@ -177,37 +177,6 @@ Museum Docent
 
 ---
 
-## SKILLS
-
-&emsp;
-**Language**
-<br/>
-- Chinese - *Native Proficiency*
-- Shanghainese - *Native Proficiency*
-- English - *Professional Proficiency*
-- Japanese - *Elementary Proficiency*
-
-&emsp;
-**Embedded System**
-<br/>
-
-- AVR - C51, Atmel
-- FPGA - Altera
-- PLC - Allen Bradley
-
-&emsp;
-**Computer Programming**
-<br/>
-
-- C/C++/C#
-- VB
-- .NET
-- JAVA
-- PHP
-- Python
-
----
-
 ## HONOR
 
 &emsp;
@@ -238,5 +207,36 @@ Issued by *Purdue Polytechnic Institute*
 &emsp;&emsp; - on *Dec 2018* for Fall 2018 Semester
 <br/>
 &emsp;&emsp; - on *May 2019* for Spring 2019 Semester
+
+---
+
+## SKILLS
+
+&emsp;
+**Language**
+<br/>
+- Chinese - *Native Proficiency*
+- Shanghainese - *Native Proficiency*
+- English - *Professional Proficiency*
+- Japanese - *Elementary Proficiency*
+
+&emsp;
+**Embedded System**
+<br/>
+
+- AVR - C51, Atmel
+- FPGA - Altera
+- PLC - Allen Bradley
+
+&emsp;
+**Computer Programming**
+<br/>
+
+- C/C++/C#
+- VB
+- .NET
+- JAVA
+- PHP
+- Python
 
 ---
