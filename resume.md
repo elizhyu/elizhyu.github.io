@@ -215,28 +215,76 @@ Issued by *Purdue Polytechnic Institute*
 &emsp;
 **Language**
 <br/>
-- Chinese - *Native Proficiency*
-- Shanghainese - *Native Proficiency*
-- English - *Professional Proficiency*
-- Japanese - *Elementary Proficiency*
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  - Chinese<br>*Native Proficiency*
+  - English<br>*Professional Proficiency*
+  </div>
+  <div class="col-md-4" markdown="1">
+  - Shanghainese<br>*Native Proficiency*
+  - Japanese<br>*Limited Working Proficiency*
+  </div>
+</div>
 
 &emsp;
-**Embedded System**
+**Programming Language**
 <br/>
-
-- AVR - C51, Atmel
-- FPGA - Altera
-- PLC - Allen Bradley
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  - C/C++/C#
+  - Python
+  - JAVA
+  </div>
+  <div class="col-md-4" markdown="1">
+  - .NET Framework
+  - Verilog/VHDL
+  - HTML + CSS
+  </div>
+  <div class="col-md-4" markdown="1">
+  - MATLAB
+  - Simulink
+  - LabVIEW
+  </div>
+</div>
 
 &emsp;
-**Computer Programming**
+**Development Platform**
 <br/>
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  - Windows
+  - Linux
+  - Git
+  </div>
+  <div class="col-md-4" markdown="1">
+  - AVR
+  - FPGA
+  - PLC
+  </div>
+</div>
 
-- C/C++/C#
-- VB
-- .NET
-- JAVA
-- PHP
-- Python
+&emsp;
+**Engineering**
+<br/>
+<div class="row">
+  <div class="col-md-6" markdown="1">
+  - Embedded System (SPI,I2C,UART,etc.)
+  - CAN Bus
+  - BMS (Battery Management System)
+  - Wireless Networks (WIFI, Cellular, Ad hoc, BLE)
+  - DSP (Digital Signal Procssing)
+  - Digital Image Processing
+  - Electric Machine Drives
+  </div>
+  <div class="col-md-6" markdown="1">
+  - Analog and Digital IC Design
+  - VLSI Physical Design
+  - High Level Synthesis
+  - Optoelectronics
+  - CAD (Inventor, FUsion, CATIA)
+  - 3D Printing (FDM)
+  - CNC (Computer Numerical Control)
+  </div>
+</div>
 
 ---
