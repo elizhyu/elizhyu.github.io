@@ -268,7 +268,7 @@ Issued by *Purdue Polytechnic Institute*
 <br/>
 <div class="row">
   <div class="col-md-6" markdown="1">
-  - Embedded System (SPI,I2C,UART,etc.)
+  - Embedded System (SPI, I2C, UART, etc.)
   - CAN Bus
   - BMS (Battery Management System)
   - Wireless Networks (WIFI, Cellular, Ad hoc, BLE)
