@@ -281,7 +281,7 @@ Issued by *Purdue Polytechnic Institute*
   - VLSI Physical Design
   - High Level Synthesis
   - Optoelectronics
-  - CAD (Inventor, FUsion, CATIA)
+  - CAD (Inventor, Fusion, CATIA)
   - 3D Printing (FDM)
   - CNC (Computer Numerical Control)
   </div>
