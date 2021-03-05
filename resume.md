@@ -4,6 +4,9 @@ title: Resume
 subtitle: Eli Zhihao Yu
 ---
 
+{: .box-note}
+**Download:** Get the resume in PDF from [here](/doc/Resume.pdf)
+
 ## EXPERIENCE
 
 <a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
