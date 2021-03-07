@@ -123,7 +123,7 @@ A 3-stage microphone amplifier designed, fabricated, and verified, capable of ha
 
 - [**Electric Guitar**](/projects/electric-guitar/)
 <br>
-A self designed spaceship looking wooden electric guitar fabricated with both hand skills and CNC machining.
+A self-designed spaceship looking wooden electric guitar fabricated with both hand skills and CNC machining.
 <br>&emsp;
 *Acoustic Instrument Design, CAD, CNC(Computer Numerical Control)*
 
