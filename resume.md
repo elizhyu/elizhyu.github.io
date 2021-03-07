@@ -113,7 +113,7 @@ A 3D printing solution designed, validated, and improved for organizing differen
 <br>
 A personal wearable recording and data logging device designed and fabricated for early childhood autism research at Purdue University.
 <br>&emsp;
-*C#, 3D Printing, CAD, Digital Circuit Design, Linux(RPi)*
+*C#, SSH/SFTP Protocol, 3D Printing, CAD, Digital Circuit Design, Linux(RPi)*
 
 - [**Mic Amplifier**](/projects/mic-amplifier/)
 <br>
