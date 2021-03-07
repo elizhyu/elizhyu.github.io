@@ -7,6 +7,34 @@ subtitle: Eli Zhihao Yu
 {: .box-note}
 **Download:** Get the resume in PDF from [here](/doc/Resume.pdf)
 
+## EDUCATION
+
+<a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+
+&emsp;
+**Georgia Institute of Technology**
+<br/>
+&emsp;
+Master of Science in Electrical and Computer Engineering
+<br/>
+&emsp;
+*Jan 2020 - May 2021*
+
+<br/>
+
+<a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+
+&emsp;
+**Purdue University**
+<br/>
+&emsp;
+Bachelor of Science in Electrical and Computer Engineering Technology
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
+
+---
+
 ## EXPERIENCE
 
 <a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
@@ -61,31 +89,46 @@ China Welfare Institute Children’s Palace
 
 ---
 
-## EDUCATION
+## PROJECTS
 
-<a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+- [**EDB-UNIQUE**](/projects/edb-unique/)
+<br>
+An Edge Detection Based Unsupervised Image Quality Estimation method, improved from the original [UNIQUE](https://ghassanalregibdotcom.wordpress.com/unique-unsupervised-image-quality-estimation/) algorithm, to better meet the need of fast expanding social network by focusing on distortion and blur types common in personal shot photos.
+<br>&emsp;
+*Image Processing, MATLAB, Python*
 
-&emsp;
-**Georgia Institute of Technology**
-<br/>
-&emsp;
-Master of Science in Electrical and Computer Engineering
-<br/>
-&emsp;
-*Jan 2020 - May 2021*
+- [**Hybrid Electric Go-Kart**](/projects/hybrid-electric-go-kart/)
+<br>
+A hybrid electric vehicle constructed from a scraped go-kart chasis, through performing research and utilizing existing electric vehicle systems, and designing and fabricating custom electric vehicle components.
+<br>&emsp;
+*CAN Bus, BMS(Battery Management System), Vehicle Electrical System, Harness, Embedded System*
 
-<br/>
+- [**Tool Organization Solution**](/projects/tool-organization-solution/)
+<br>
+A 3D printing solution designed, validated, and improved for organizing different kinds of tools in workbench.
+<br>&emsp;
+*3D Printing, CAD*
 
-<a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+- [**Prism Wearable Headset**](/projects/prism-wearable-headset/)
+<br>
+A personal wearable recording and data logging device designed and fabricated for early childhood autism research at Purdue University.
+<br>&emsp;
+*C#, 3D Printing, CAD, Digital Circuit Design, Linux(RPi)*
 
-&emsp;
-**Purdue University**
-<br/>
-&emsp;
-Bachelor of Science in Electrical and Computer Engineering Technology
-<br/>
-&emsp;
-*Sep 2015 - May 2019*
+- [**Mic Amplifier**](/projects/mic-amplifier/)
+<br>
+A 3-stage microphone amplifier designed, fabricated, and verified, capable of handling both balanced and unbalanced input MIC signal, noise filtering, and 5-band equalizing, with 25.92 Watt of maximum output power.
+<br>&emsp;
+*Analog Circuit Design, Digital Circuit Design*
+
+- [**Electric Guitar**](/projects/electric-guitar/)
+<br>
+A self designed spaceship looking wooden electric guitar fabricated with both hand skills and CNC machining.
+<br>&emsp;
+*Acoustic Instrument Design, CAD, CNC(Computer Numerical Control)*
+
+>
+Check all projects [HERE](/projects)
 
 ---
 
