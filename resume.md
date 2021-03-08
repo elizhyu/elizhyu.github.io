@@ -19,6 +19,9 @@ Master of Science in Electrical and Computer Engineering
 <br/>
 &emsp;
 *Jan 2020 - May 2021*
+<br/>
+&emsp;
+GPA: 3.88 (Uncompleted)
 
 <br/>
 
@@ -32,6 +35,9 @@ Bachelor of Science in Electrical and Computer Engineering Technology
 <br/>
 &emsp;
 *Sep 2015 - May 2019*
+<br/>
+&emsp;
+GPA: 3.75
 
 ---
 
