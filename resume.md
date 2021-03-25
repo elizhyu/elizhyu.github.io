@@ -4,6 +4,12 @@ title: Resume
 subtitle: Eli Zhihao Yu
 ---
 
+## SUMMARY
+
+I'm a graduating Electrical and Computer Engineering Master student at Georgia Institute of Technology specializing in VLSI design, and I finished my BS degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. Right now, I'm looking for opportunities for embedded systems, circuit design and firmware/software development, preferably in IoT, 3D Manufacturing, and Automotive Industry.
+<br>
+**Legally authorized to work in US, without requiring future sponsorship*
+
 {: .box-note}
 **Download:** Get the resume in PDF from [here](/doc/Resume.pdf)
 
@@ -21,7 +27,7 @@ Master of Science in Electrical and Computer Engineering
 *Jan 2020 - May 2021*
 <br/>
 &emsp;
-GPA: 3.88 (Uncompleted)
+GPA: 3.88 (Now)
 
 <br/>
 
@@ -97,29 +103,23 @@ China Welfare Institute Children’s Palace
 
 ## PROJECTS
 
-- [**EDB-UNIQUE**](/projects/edb-unique/)
-<br>
-An Edge Detection Based Unsupervised Image Quality Estimation method, improved from the original [UNIQUE](https://ghassanalregibdotcom.wordpress.com/unique-unsupervised-image-quality-estimation/) algorithm, to better meet the need of fast expanding social network by focusing on distortion and blur types common in personal shot photos.
-<br>&emsp;
-*Image Processing, MATLAB, Python*
-
 - [**Hybrid Electric Go-Kart**](/projects/hybrid-electric-go-kart/)
 <br>
-A hybrid electric vehicle constructed from a scraped go-kart chasis, through performing research and utilizing existing electric vehicle systems, and designing and fabricating custom electric vehicle components.
+A hybrid electric vehicle constructed from a scraped go-kart chassis, through performing research and utilizing existing electric vehicle systems, and designing and fabricating custom electric vehicle components.
 <br>&emsp;
 *CAN Bus, BMS(Battery Management System), Vehicle Electrical System, Harness, Embedded System*
-
-- [**Tool Organization Solution**](/projects/tool-organization-solution/)
-<br>
-A 3D printing solution designed, validated, and improved for organizing different kinds of tools in workbench.
-<br>&emsp;
-*3D Printing, CAD*
 
 - [**Prism Wearable Headset**](/projects/prism-wearable-headset/)
 <br>
 A personal wearable recording and data logging device designed and fabricated for early childhood autism research at Purdue University.
 <br>&emsp;
 *C#, SSH/SFTP Protocol, 3D Printing, CAD, Digital Circuit Design, Linux(RPi)*
+
+- [**Tool Organization Solution**](/projects/tool-organization-solution/)
+<br>
+A 3D printing solution designed, validated, and improved for organizing different kinds of tools in workbench.
+<br>&emsp;
+*3D Printing, CAD*
 
 - [**Mic Amplifier**](/projects/mic-amplifier/)
 <br>
@@ -132,6 +132,12 @@ A 3-stage microphone amplifier designed, fabricated, and verified, capable of ha
 A self-designed spaceship looking wooden electric guitar fabricated with both hand skills and CNC machining.
 <br>&emsp;
 *Acoustic Instrument Design, CAD, CNC(Computer Numerical Control)*
+
+- [**EDB-UNIQUE**](/projects/edb-unique/)
+<br>
+An Edge Detection Based Unsupervised Image Quality Estimation method, improved from the original [UNIQUE](https://ghassanalregibdotcom.wordpress.com/unique-unsupervised-image-quality-estimation/) algorithm, to better meet the need of fast expanding social network by focusing on distortion and blur types common in personal shot photos.
+<br>&emsp;
+*Image Processing, MATLAB, Python*
 
 >
 Check all projects [HERE](/projects)
