@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/hybrid-electric-go-kart/
 title: Hybrid Electric Go-Kart
-subtitle: Hybrid electric vehicle designed and fabricated from bare chasis
+subtitle: Hybrid electric vehicle designed and fabricated from bare chassis
 ---
 
 ![/img/projects/hybrid-electric-go-kart/header.png](/img/projects/hybrid-electric-go-kart/header.png)
@@ -22,7 +22,7 @@ The goal of the project was to develop a detailed design and an action plan, thr
 
 # Revival
 
-As the project was based on an old two-seat go-kart chasis for salvage, several salvage operations were required before any new modification.
+As the project was based on an old two-seat go-kart chassis for salvage, several salvage operations were required before any new modification.
 
 - The metal parts of the go-kart(mostly the back frame) were de-rusted to maintain structural integrity.
 - The flat tires were patched and resealed to prevent leakage after re-inflation.
