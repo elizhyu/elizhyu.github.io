@@ -63,9 +63,9 @@ subtitle: Where you know me specifically
 
 <div class="row">
   <div class="column">
-    <h3>Electric Guitar</h3>
-    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
-    <p>Self designed and made spaceship looking electric guitar</p>
+    <h3>Versatile Tuner</h3>
+    <a href="/projects/versatile-tuner/"><img src="/img/projects/versatile-tuner.png" alt="Versatile Tuner" style="width:100%"></a>
+    <p>An FPGA application that performs as a music or instrument tuner, capable of applying multiple audio effects</p>
   </div>
 
   <div class="column">
@@ -75,6 +75,9 @@ subtitle: Where you know me specifically
   </div>
 
   <div class="column">
+    <h3>Electric Guitar</h3>
+    <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
+    <p>Self designed and made spaceship looking electric guitar</p>
   </div>
 </div>
 
