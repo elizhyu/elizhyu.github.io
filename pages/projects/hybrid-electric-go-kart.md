@@ -157,13 +157,66 @@ The electric motor used is **EJ4-4001** 48-volt DC, shunt-wound, reversible trac
 
 A Sparkfun arduino CAN Bus shield is used to monitor CAN Bus data flow. Battery voltage data is filtered out to indicate when hybrid system needs to engage.
 
-![CAN Bus Monitor](/img/projects/hybrid-electric-go-kart/can-bus-monitor.jpg)
+{% highlight C linenos %}
+#include <Canbus.h>
+#include <defaults.h>
+#include <global.h>
+#include <mcp2515.h>
+#include <mcp2515_defs.h>
+#include <SoftwareSerial.h>
+
+char buffer[456];
+
+//***************************** Setup *****************************
+
+SoftwareSerial mySerial(3,6);   // pin 6 = TX, pin 3 = RX
+
+void setup() {
+    mySerial.begin(9600);   // set up LCD serial port for 9600 baud
+    delay(500);             // wait for display to boot up
+    Serial.begin(9600);     // for debug use
+    Serial.println("CAN Read - Testing receival of CAN Bus message");
+    delay(1000);
+
+    if(Canbus.init(CANSPEED_500))   // Initialize MCP2515 CAN controller at the specified speed
+        Serial.println("CAN Init ok");
+    else
+        Serial.println("Can't init CAN");
+    
+    delay(1000);
+}
+
+void loop() {
+    tCAN message;
+
+    if(mcp2515_check_message()) {
+        Serial.print("check message ");
+        if(mcp2515_get_message(&message)) {
+            Serial.print("ID: ");
+            Serial.print(message.id, HEX);
+        }
+    }
+}
+{% endhighlight %}
 
 ### LCD Display
 
 A small LCD display is mounted to the dashboard to display battery voltage, current, and error messages.
 
-![LCD Display](/img/projects/hybrid-electric-go-kart/lcd-display.jpg)
+{% highlight C linenos %}
+void LCD_print() {
+    mySerial.write(254);    // move cursor to beginning of first linenos
+    mySerial.write(128);
+
+    mySerial.write("                    "); // clear display
+    mySerial.write("                    ");
+
+    mySerial.write(254);    // move cursor to beginning of first linenos
+    mySerial.write(128);
+
+    mySerial.write("Hello, world!");
+}
+{% endhighlight %}
 
 ### Gas Engine Control
 
@@ -171,11 +224,40 @@ The ignition and stall of the gas engine are controlled by the microcontroller. 
 
 **Code to drive relay**
 
-![Drive Relay](/img/projects/hybrid-electric-go-kart/drive-relay.jpg)
+{% highlight C linenos %}
+int in1 = 7;
+void setup() {
+    pinMode(in1, OUTPUT);
+    digitalWrite(in1, HIGH);
+}
+
+void loop() {
+    digitalWrite(in1, LOW);
+    delay(3000);
+    digitalWrite(in1, HIGH);
+    delay(3000);
+}
+{% endhighlight %}
 
 **Code to drive servo**
 
-![Drive Servo](/img/projects/hybrid-electric-go-kart/drive-servo.jpg)
+{% highlight C linenos %}
+#include <Servo.h>
+
+Servo servo_gas;    // Declare Servo
+
+void setup() {
+    servo_gas.attach(10);
+}
+
+void loop() {
+    servo_gas.write(30);    // initial 0 deg
+    delay(1500);
+
+    servo_gas.write(150);   // 180 deg
+    delay(1500);
+}
+{% endhighlight %}
 
 ---
 
