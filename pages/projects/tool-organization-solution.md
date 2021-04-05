@@ -152,44 +152,9 @@ subtitle: A 3D printing solution for organizing different kinds of tools in work
 
 
 <style>
-
-  .row,
-  .row > .column {
-    padding: 8px;
-  }
-
-  .row {
-    display: table;
-    width: 100%;
-  }
-
-  /* Create four equal columns that floats next to each other */
-  .column {
-    background-color: #f1f1f1;
-    display: table-cell;
-    width: 33%;
-    border: 10px solid white;
-  }
-
-  h3{
-    text-align: center;
-  }
-  
-  p{
-    text-align: center;
-  }
-
   button{
     text-align: center;
     color: white;
     background-color: #008CBA;
   }
-
-  @media only screen and (max-width: 600px) {
-    .column { 
-      display: block;
-      width: 100%;
-    }
-  }
-
 </style>
