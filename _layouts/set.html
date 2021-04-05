@@ -8,12 +8,12 @@ layout: page
 
 {% for photo in page.photos %}
 <div class="row">
-  <div class="wide-column">
+  <div class="column" style="width:40%;vertical-align:top;">
     <a href="/img/photos/{{ page.set }}/{{ photo.file }}"><img src="/img/photos/{{ page.set }}/thumbs/{{ photo.thumb }}" width="100%" class="lazyload" /></a>
     <h3>{{ photo.title }}</h3>
   </div>
-  <div class="column">    
-    <p>
+  <div class="column" style="width:59%" >    
+    <p style="text-align: left">
       <i class="material-icons">event</i>
       &nbsp;{% if photo.taken %}{{ photo.taken }}{% else %}N/A{% endif %}
       <br>
@@ -36,56 +36,11 @@ layout: page
       &nbsp;{% if photo.focal %}{{ photo.focal }}&nbsp;mm{% else %}N/A{% endif %}
       <br>
     </p>
-    <p>{{ photo.description }}</p>
+    <p style="text-align: left">{{ photo.description }}</p>
   </div>
 </div>
 {% endfor %}
 
-
 <div>
   <a href="{{ site.baseurl }}/hobbies/photography"><h3>View All Albums</h3></a>
 </div>
-
-<style>
-  .row,
-  .row > .column {
-    padding: 8px;
-  }
-
-  .row {
-    display: table;
-    width: 100%;
-  }
-
-  /* Create four equal columns that floats next to each other */
-  .column {
-    background-color: #f1f1f1;
-    display: table-cell;
-    width: 59%;
-    border: 10px solid white;
-    vertical-align: top;
-  }
-
-  .wide-column {
-    background-color: #f1f1f1;
-    display: table-cell;
-    width: 40%;
-    border: 10px solid white;
-  }
-
-  h3{
-    text-align: center;
-  }
-  
-  p{
-    text-align: left;
-  }
-
-  @media only screen and (max-width: 600px) {
-    .column { 
-      display: block;
-      width: 100%;
-    }
-  }
-
-</style>

@@ -23,3 +23,40 @@ layout: base
     </div>
   </div>
 </div>
+
+<style>
+
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+
+  .row {
+    display: table;
+    width: 100%;
+  }
+
+  /* Create four equal columns that floats next to each other */
+  .column {
+    background-color: #f1f1f1;
+    display: table-cell;
+    width: 33%;
+    border: 10px solid white;
+  }
+
+  div.column h3{
+    text-align: center;
+  }
+  
+  div.column p{
+    text-align: center;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .column { 
+      display: block;
+      width: 100%;
+    }
+  }
+
+</style>
