@@ -8,7 +8,7 @@ subtitle: Eli Zhihao Yu
 
 I am a graduating Electrical and Computer Engineering Master student at Georgia Institute of Technology specializing in VLSI design, and I finished my BS degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. Right now, I am looking for opportunities for embedded systems, circuit design and firmware/software development, preferably in IoT, 3D Manufacturing, and Automotive Industry.
 <br>
-****Legally authorized to work in US, Permanent Residency pending, without requiring sponsorship***
+***Legally authorized to work in US, Permanent Residency pending, without requiring sponsorship**
 
 {: .box-note}
 **Download:** Get the resume in PDF from [here](/doc/Resume.pdf)
