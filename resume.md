@@ -6,7 +6,7 @@ subtitle: Eli Zhihao Yu
 
 ## SUMMARY
 
-I am a graduating Electrical and Computer Engineering Master student at Georgia Institute of Technology specializing in VLSI design, and I finished my BS degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. Right now, I am looking for opportunities for embedded systems, circuit design and firmware/software development, preferably in IoT, 3D Manufacturing, and Automotive Industry.
+I am a newly graduated Electrical and Computer Engineering Master student at Georgia Institute of Technology specializing in VLSI design, and I finished my BS degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. Right now, I am looking for opportunities for embedded systems, circuit design and firmware/software development, preferably in IoT, 3D Manufacturing, and Automotive Industry.
 <br>
 ***Legally authorized to work in US, Permanent Residency pending, without requiring sponsorship**
 
@@ -79,7 +79,7 @@ Purdue Collaborative Robotics Lab
 &emsp;
 *Oct 2016 - May 2017*
 
-- Learned about graduate-level research while assisting PhD students under Prof. [Richard M. Voyles](https://polytechnic.purdue.edu/profile/rvoyles), the head of [Collaborative Robotics Lab](https://www.purdue.edu/crl/), who had led National Robotics Initiative at National Science Foundation, and served at White House in Office of Science and Technology Policy.
+- Learned about graduate-level research while assisting PhD students under Prof. [Richard M. Voyles](https://polytechnic.purdue.edu/profile/rvoyles).
 - Participated in robotic projects including bionic robot softskin and modular serpentine robot.
 
 <br/>
