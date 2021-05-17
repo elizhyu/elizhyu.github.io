@@ -220,7 +220,7 @@ Museum Docent
 
 <br/>
 
-<a href="https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum" target="_blank"><img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+<img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
 **Shanghai T'ousewe Museum**
