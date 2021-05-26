@@ -295,7 +295,7 @@ Issued by *Purdue Polytechnic Institute*
   </div>
   <div class="col-md-4" markdown="1">
   - .NET Framework
-  - Verilog/VHDL
+  - VHDL/Verilog
   - HTML + CSS
   </div>
   <div class="col-md-4" markdown="1">
@@ -330,7 +330,7 @@ Issued by *Purdue Polytechnic Institute*
   - CAN Bus
   - BMS (Battery Management System)
   - Wireless Networks (WIFI, Cellular, Ad hoc, BLE)
-  - DSP (Digital Signal Procssing)
+  - DSP (Digital Signal Processing)
   - Digital Image Processing
   - Electric Machine Drives
   </div>
