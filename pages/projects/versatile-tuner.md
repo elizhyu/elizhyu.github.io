@@ -19,7 +19,7 @@ There were currently a lot of analog tuners in the market, but mainly have only 
 
 ---
 
-# Desgin
+# Design
 
 ### Block Diagram
 
@@ -60,4 +60,4 @@ Audio delay effects including echo was originally part of the project. The delay
 **Hardware:** The hardware used for the project is the [Altera DE-1 FPGA Development Board](https://www.intel.com/content/www/us/en/programmable/solutions/partners/partner-profile/terasic-inc-/board/altera-de1-board.html)
 
 {: .box-note}
-**Software:** The code is written in VHDL through Alera Quartus II compiler, download the project code [here](/doc/Versatile_Tuner.zip)
+**Software:** The code is written in VHDL through Altera Quartus II compiler, download the project code [here](/doc/Versatile_Tuner.zip)
