@@ -11,6 +11,8 @@ subtitle: Where you know me specifically
 ![](https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/languages.svg)
 
+***check my Github page on the bottom of the site**
+
 ## Research
 
 ---
