@@ -12,7 +12,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         <a href="/img/projects/electric-guitar/Electric-Guitar.jpg"><img src="/img/projects/electric-guitar/Electric-Guitar_Thumbnail.jpg" class = "lazyload" height="100%"></a>
     </div>
     <div style="flex:60%;">
-        The final finshed guitar made of 4 main pieces:
+        The final finished guitar made of 4 main pieces:
         <ul>
             <li>Neck</li>
             <li>Nut</li>
@@ -34,7 +34,7 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
         The picture shows a sketch of the guitar's earliest design, of which the idea comes from <i>Romulan Warbird</i>, the alien star ship appeared in Star Trek Franchise. (Mostly the top crossview of it.)
         <br/>
         <br/>
-        <i>(BTW, Star Trek is my favourite Sci-Fi Franchise.)</i>
+        <i>(BTW, Star Trek is my favorite Sci-Fi Franchise.)</i>
         <br/>
         <a href="/img/projects/electric-guitar/Romulan Warbird.jpg"><img src="/img/projects/electric-guitar/Romulan Warbird.jpg" class = "lazyload" width="95%"></a>
     </div>
@@ -47,10 +47,10 @@ The electric guitar born in the [Engineering Technology Acoustics Lab](https://p
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        As the design concept of the guitar had been decided, we made lots of calculations to find the correct dimensions and sizes of functional guitar parts so that it can eventually work. As shwon in the picture below, important dimensions like neck scale length and bridge position were calculated according to formulas. Also, body thickness was decided according to the actual thickness of the wood plank we had.
+        As the design concept of the guitar had been decided, we made lots of calculations to find the correct dimensions and sizes of functional guitar parts so that it can eventually work. As shown in the picture below, important dimensions like neck scale length and bridge position were calculated according to formulas. Also, body thickness was decided according to the actual thickness of the wood plank we had.
         <br/>
         <br/>
-        After that, we used lasercut cardboards to make prototypes of our design to have a more straightforward idea of it for us to optimize. Through several iterations, as one of it shown on the right, we had our final shape and dimensions decided.
+        After that, we used lasercut cardboard to make prototypes of our design to have a more straightforward idea of it for us to optimize. Through several iterations, as one of it shown on the right, we had our final shape and dimensions decided.
         <br/>
         <br/>
         <a href="/img/projects/electric-guitar/Design Calculations.jpg"><img src="/img/projects/electric-guitar/guitar3.jpg" class = "lazyload" width="95%"></a>
@@ -74,7 +74,7 @@ The final CAD model by using [Autodesk Inventor Pro](https://www.autodesk.com/pr
 
 <div style="display:flex;">
     <div style="flex:60%;">
-        After the design stage, we used <a href="https://www.autodesk.com/products/inventor-cam/overview">Inventor HSM(NOW Inventor CAM)</a> CAM software to design CNC routing pathss and generate the G-code compatible with our <a href="https://www.shopbottools.com/">ShopBot</a> CNC machine.
+        After the design stage, we used <a href="https://www.autodesk.com/products/inventor-cam/overview">Inventor HSM(NOW Inventor CAM)</a> CAM software to design CNC routing paths and generate the G-code compatible with our <a href="https://www.shopbottools.com/">ShopBot</a> CNC machine.
         <br/>
         <br/>
         We used alignment pins and performed two sided machining to the wood block as shown in the picture below, and the result is shown on right.

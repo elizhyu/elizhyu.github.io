@@ -26,8 +26,8 @@ As the project was based on an old two-seat go-kart chassis for salvage, several
 
 - The metal parts of the go-kart(mostly the back frame) were de-rusted to maintain structural integrity.
 - The flat tires were patched and resealed to prevent leakage after re-inflation.
-- The broken brake padel and brake lines are fixed as the mechanical last resort for all electrical systems failure.
-- The hydaulic front brakes are bleeded and refilled with DOT3 brake fluid.
+- The broken brake pedal and brake lines are fixed as the mechanical last resort for all electrical systems failure.
+- The hydraulic front brakes are bleeded and refilled with DOT3 brake fluid.
 
 <hr />
 
@@ -78,7 +78,7 @@ The gas engine control system is relatively more isolated, while only taking the
     - max RPM: 3400
     - output shaft: 3/4 in
 - Modifications
-    - Removal of original key start swtich
+    - Removal of original key start switch
     - Addition of engine start and stop control by the computer
     - Addition of a servo controlling the throttle
 
@@ -117,7 +117,7 @@ Two 48V batteries each with 48 cells are mounted into a specifically welded stee
 
 The BMS circuit is enclosed in a dust-proof plastic box with connectors on the walls. The box is screwed down to the bottom of the rear top car basket frame.
 
-The high power circuits including the **Curtis 1510** motor controller, AC-DC converter for charging, 48V-12V DC-DC converter, and the **KILOVAC EV200** 48V mootor controller relays are mounted to a single aluminum plate, and then mounted to the rear bottom car frame.
+The high power circuits including the **Curtis 1510** motor controller, AC-DC converter for charging, 48V-12V DC-DC converter, and the **KILOVAC EV200** 48V motor controller relays are mounted to a single aluminum plate, and then mounted to the rear bottom car frame.
 
 
 <br>
@@ -134,7 +134,7 @@ The standard J1772 charging plug port is mounted on a 3D-printed plated on the s
 
 ### Electric Driving Motor
 
-The electric motor used is **EJ4-4001** 48-volt DC, shunt-wound, reversible traction motor in a golf cart motor-axle assembly. The motor is capable of providing a maxium of 3.2 HP.
+The electric motor used is **EJ4-4001** 48-volt DC, shunt-wound, reversible traction motor in a golf cart motor-axle assembly. The motor is capable of providing a maximum of 3.2 HP.
 
 <br>
 
@@ -142,12 +142,12 @@ The electric motor used is **EJ4-4001** 48-volt DC, shunt-wound, reversible trac
 
 # Mechanical Manufacture and Procedures
 
-- replace the orginal axle frame with fabricated axle frame to fit the golf cart motor-axle assembly
+- replace the original axle frame with fabricated axle frame to fit the golf cart motor-axle assembly
 - install 8 in wheel spacers on rear axle to improve stability
 - fabricate various mounting panels and brackets
 - connect the rear drum brakes on the golf cart axle to the hand brake
 - mount throttle rheostat to the underside of cargo basket frame behind driver's seat and feed throttle wires to the pedal
-- mount brake rheostat for regenerative braking to front floor panel and connect to brake padel
+- mount brake rheostat for regenerative braking to front floor panel and connect to brake pedal
 
 ---
 
@@ -220,7 +220,7 @@ void LCD_print() {
 
 ### Gas Engine Control
 
-The ignition and stall of the gas engine are controlled by the microcontroller. Once the 'ignition' port of gas engine is connected to 12V, the engine starts. Once the 'stall' ported is grounded, the engine stops. Since gas engine and alternator operates at high voltage, a relay is utilized in the control system. The gas engine RPM is controlled by a servo motor to privde desired 48V output.
+The ignition and stall of the gas engine are controlled by the microcontroller. Once the 'ignition' port of gas engine is connected to 12V, the engine starts. Once the 'stall' ported is grounded, the engine stops. Since gas engine and alternator operates at high voltage, a relay is utilized in the control system. The gas engine RPM is controlled by a servo motor to provide desired 48V output.
 
 **Code to drive relay**
 
@@ -318,7 +318,7 @@ A racing vehicle weight is placed under the wheels to measure the actual weight 
 
 **Test Result**
 
-The weight is measued <u>662.5 lbs</u>, with percentage difference of <u>5.22%</u> between real case and estimation.
+The weight is measured <u>662.5 lbs</u>, with percentage difference of <u>5.22%</u> between real case and estimation.
 
 ![Weight Test](/img/projects/hybrid-electric-go-kart/weight-test.jpg)
 
@@ -374,7 +374,7 @@ The total distance on $$-3^{\circ}$$ Gradient Surface: <u>246.89 m</u>
 
 The speed of the vehicle measured is 19.2876 mph, which is 8.6223 m/s.
 <br>
-Hence, the time taken to travel on different surfgaces can be calcualted:
+Hence, the time taken to travel on different surfaces can be calculated:
 
 Time on Flat Surface: $$\frac{1000.36 m}{8.6223 m/s}=\underline{116.02 s}$$
 <br>
@@ -386,11 +386,11 @@ Time on $$-3^{\circ}$$ Gradient Surface: $$\frac{246.89 m}{8.6223 m/s}=\underlin
 <img src="/img/projects/hybrid-electric-go-kart/drive-cycle-cal2.jpg" alt="Drive Cycle Calculation 2" class="lazyload" style="vertical-align:top; width:33%;">
 <img src="/img/projects/hybrid-electric-go-kart/drive-cycle-cal3.jpg" alt="Drive Cycle Calculation 3" class="lazyload" style="vertical-align:top; width:33%;">
 
-Thus, through the average power on different surfaces calcuated above, the Total Energy Consumed would be:
+Thus, through the average power on different surfaces calculated above, the Total Energy Consumed would be:
 
 $$E_{total}=0.71 kW\times 116.02 s + 4.65 kW\times 39.24 s - 3.23 kW \times 28.63 s = \underline{172.37 kJ}$$
 
-During actual test, the throttle is released on down slopes, and no energy regenration, so the actual energy consumption estimation is:
+During actual test, the throttle is released on down slopes, and no energy regeneration, so the actual energy consumption estimation is:
 
 $$E_{total}=0.71 kW\times 116.02 s + 4.65 kW\times 39.24 s = \underline{264.84 kJ}$$
 

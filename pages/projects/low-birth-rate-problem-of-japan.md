@@ -39,7 +39,7 @@ Other than education, manufactures and producers related to children would be co
 ### Long Term
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-In long term, low birth rate would have greater and worse impact on education. Lots of education facilities in communities with fewer newborns would close down, and school age children from those places have to attend schools in cities or larger communities. Since the whole family would usually migrate together, it can lead to the dramatical trend of migrating to cities and the abandon of villages and towns.
+In long term, low birth rate would have greater and worse impact on education. Lots of education facilities in communities with fewer newborns would close down, and school age children from those places have to attend schools in cities or larger communities. Since the whole family would usually migrate together, it can lead to the dramatic trend of migrating to cities and the abandon of villages and towns.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Labor force is the other one being influenced the most by low birth rate in long term. Obviously, low birth rate would cause lack of labor force, and significantly impact business and industries. Also, lots of work positions would be taken by people not qualified but compromised due to the short in labor force, and working quality would definitely decline.
