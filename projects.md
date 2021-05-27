@@ -13,32 +13,6 @@ subtitle: Where you know me specifically
 
 ***check my Github page on the bottom of the site**
 
-## Research
-
----
-
-<div class="row">
-  <div class="column">
-    <h3>Bionic Robot Softskin</h3>
-    <a href="/projects/bionic-robot-softskin/"><img src="/img/projects/bionic-robot-softskin.png" alt="Bionic Robot Softskin" style="width:100%"></a>
-    <p>Development of a flexible polymer meta-material embedded with neuromorphic architecture</p>
-  </div>
-
-  <div class="column">
-    <h3>EDB-UNIQUE</h3>
-    <a href="/projects/edb-unique/"><img src="/img/projects/edb-unique.png" alt="EDB-UNIQUE" style="width:100%"></a>
-    <p><b>Image Processing:</b> <br/> Edge Detection Based Unsupervised Image Quality Estimation</p>
-  </div>
-
-  <div class="column">
-    <h3>Japan Low Birth Rate Problem</h3>
-    <a href="/projects/low-birth-rate-problem-of-japan/"><img src="/img/projects/low-birth-rate-problem-of-japan.png" alt="Low Birth Rate Problem of Japan" style="width:100%"></a>
-    <p>The <b>effects</b> and <b>causes</b> of the low birth rate problem of Japan</p>
-  </div>
-</div>
-
-<br />
-
 ## Design & Fabrication
 
 ---
@@ -80,5 +54,31 @@ subtitle: Where you know me specifically
     <h3>Electric Guitar</h3>
     <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
     <p>Self designed and made spaceship looking electric guitar</p>
+  </div>
+</div>
+
+<br />
+
+## Research
+
+---
+
+<div class="row">
+  <div class="column">
+    <h3>Bionic Robot Softskin</h3>
+    <a href="/projects/bionic-robot-softskin/"><img src="/img/projects/bionic-robot-softskin.png" alt="Bionic Robot Softskin" style="width:100%"></a>
+    <p>Development of a flexible polymer meta-material embedded with neuromorphic architecture</p>
+  </div>
+
+  <div class="column">
+    <h3>EDB-UNIQUE</h3>
+    <a href="/projects/edb-unique/"><img src="/img/projects/edb-unique.png" alt="EDB-UNIQUE" style="width:100%"></a>
+    <p><b>Image Processing:</b> <br/> Edge Detection Based Unsupervised Image Quality Estimation</p>
+  </div>
+
+  <div class="column">
+    <h3>Japan Low Birth Rate Problem</h3>
+    <a href="/projects/low-birth-rate-problem-of-japan/"><img src="/img/projects/low-birth-rate-problem-of-japan.png" alt="Low Birth Rate Problem of Japan" style="width:100%"></a>
+    <p>The <b>effects</b> and <b>causes</b> of the low birth rate problem of Japan</p>
   </div>
 </div>
