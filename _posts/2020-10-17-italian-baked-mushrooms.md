@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Italian Baked Mushrooms
+title:  Italian Baked Mushrooms<br>[Vegetarian]
 subtitle: Great vegetarian dish with the beauty of simplicity.
-categories: [ appetizer, vegetarian ]
-tags: [ mushroom, garlic, italian ]
+categories: [ appetizer ]
+tags: [ mushroom, garlic, italian, vegetarian ]
 bigimg: /img/cooking/italian-baked-mushrooms/1.png
 ---
 
