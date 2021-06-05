@@ -24,7 +24,7 @@ I am a newly graduated Electrical and Computer Engineering Master student at Geo
 Master of Science in Electrical and Computer Engineering
 <br/>
 &emsp;
-*Jan 2020 - May 2021*
+*Jan 2020 - Aug 2021*
 <br/>
 &emsp;
 GPA: 3.88 (Now)
