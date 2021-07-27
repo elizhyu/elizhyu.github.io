@@ -6,48 +6,29 @@ subtitle: Eli Zhihao Yu
 
 ## SUMMARY
 
-I am a newly graduated Electrical and Computer Engineering Master student at Georgia Institute of Technology specializing in VLSI design, and I finished my BS degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. Right now, I am looking for opportunities for embedded systems, circuit design and firmware/software development, preferably in IoT, 3D Manufacturing, and Automotive Industry.
-<br>
-***Legally authorized to work in US, Permanent Residency pending, without requiring sponsorship**
+I am currently a Firmware Engineer at Texas Instruments, working on Custom Firmware Development in Battery Fuel Gauges team. I graduated from Georgia Institute of Technology as an Electrical and Computer Engineering Master student, specializing in VLSI design, and I finished my Bachelor's degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. 
 
+<!---
 {: .box-note}
 **Download:** Get the resume in PDF from [here](/doc/Resume.pdf)
-
-## EDUCATION
-
-<a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
-
-&emsp;
-**Georgia Institute of Technology**
-<br/>
-&emsp;
-Master of Science in Electrical and Computer Engineering
-<br/>
-&emsp;
-*Jan 2020 - Aug 2021*
-<br/>
-&emsp;
-GPA: 3.88 (Now)
-
-<br/>
-
-<a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
-
-&emsp;
-**Purdue University**
-<br/>
-&emsp;
-Bachelor of Science in Electrical and Computer Engineering Technology
-<br/>
-&emsp;
-*Sep 2015 - May 2019*
-<br/>
-&emsp;
-GPA: 3.75
+-->
 
 ---
 
 ## EXPERIENCE
+
+<a href="https://www.ti.com/" target="_blank"><img src="/img/resume/TexasInstruments.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+
+&emsp;
+**Firmware Engineer of Battery Management Solution**
+<br/>
+&emsp;
+Texas Instruments
+<br/>
+&emsp;
+*Aug 2021 - Now*
+
+<br>
 
 <a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
@@ -98,6 +79,40 @@ China Welfare Institute Children’s Palace
 - Provided extra-curriculum programming tutoring on entry level C Language.
 - Taught 20-student-class-size of middle school and high school students.
 - Offered experience and knowledge of computer hardware architecture, C language coding and practical problem solving.
+
+---
+
+## EDUCATION
+
+<a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+
+&emsp;
+**Georgia Institute of Technology**
+<br/>
+&emsp;
+Master of Science in Electrical and Computer Engineering
+<br/>
+&emsp;
+*Jan 2020 - Aug 2021*
+<br/>
+&emsp;
+GPA: 3.88 (Now)
+
+<br/>
+
+<a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+
+&emsp;
+**Purdue University**
+<br/>
+&emsp;
+Bachelor of Science in Electrical and Computer Engineering Technology
+<br/>
+&emsp;
+*Sep 2015 - May 2019*
+<br/>
+&emsp;
+GPA: 3.75
 
 ---
 
@@ -220,7 +235,7 @@ Museum Docent
 
 <br/>
 
-<img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
+<img src="/img/resume/TSWM.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;">
 
 &emsp;
 **Shanghai T'ousewe Museum**
