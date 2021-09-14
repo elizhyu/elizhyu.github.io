@@ -36,7 +36,7 @@ layout: base
     width: 100%;
   }
 
-  /* Create four equal columns that floats next to each other */
+  /* Create three equal columns that floats next to each other */
   .column {
     background-color: #f1f1f1;
     display: table-cell;
@@ -52,8 +52,29 @@ layout: base
     text-align: center;
   }
 
+  /* Create four equal columns that floats next to each other */
+  .column-4 {
+    background-color: #f1f1f1;
+    display: table-cell;
+    width: 25%;
+    border: 10px solid white;
+  }
+
+  div.column-4 h3{
+    text-align: center;
+  }
+  
+  div.column-4 p{
+    text-align: center;
+  }
+
   @media only screen and (max-width: 600px) {
     .column { 
+      display: block;
+      width: 100%;
+    }
+
+    .column-4 { 
       display: block;
       width: 100%;
     }
