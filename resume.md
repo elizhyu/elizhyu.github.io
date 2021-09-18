@@ -87,7 +87,7 @@ China Welfare Institute Children’s Palace
 <a href="https://www.gatech.edu/" target="_blank"><img src="/img/resume/gatech.gif" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
-**Georgia Institute of Technology**
+**Georgia Institute of Technology** [[Diploma]](/img/resume/MS-GT.png)
 <br/>
 &emsp;
 Master of Science in Electrical and Computer Engineering
@@ -100,7 +100,7 @@ Master of Science in Electrical and Computer Engineering
 <a href="https://www.purdue.edu/" target="_blank"><img src="/img/resume/purdue.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
-**Purdue University**
+**Purdue University** [[Diploma]](/img/resume/BS-Purdue.jpg)
 <br/>
 &emsp;
 Bachelor of Science in Electrical and Computer Engineering Technology
