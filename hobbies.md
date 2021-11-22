@@ -44,6 +44,9 @@ subtitle: Where you know me way too much
   </div>
 
   <div class="column">
+      <h3>Board Game</h3>
+    <a href="/hobbies/boardgame/" target="_blank"><img src="/img/boardgame/boardgame.png" alt="Cooking" style="width:100%"></a>
+    <p>The board games I owned</p>
   </div>
 
   <div class="column">
