@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Asian Green Bean Soup (Instant Pot)
+title:  Asian Green Bean Soup<br>绿豆汤 (Instant Pot)
 subtitle: The best popular asian-style summer sweets
 categories: [ snack ]
 tags: [ asian green bean, Instant Pot ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shanghai-Style Russian Borscht
+title: Shanghai-Style Russian Borscht<br>罗宋汤
 subtitle: Famous "Western-style" soup at Shanghai in the 1900s
 categories: [ soup ]
 tags: [ Shanghai, Russian, beef, tomato, potato, onion, cabbage ]
