@@ -43,6 +43,6 @@ Spicy hot pot, or "Mala Xiang Guo" 麻辣香锅 in Chinese, is a stir-fried Chin
 
 - Add in the soy sauce, sugar, cooking wine, and hotpot base, and keep stir frying until fully cooked.<br>加入生抽，糖，料酒，火锅底料调味，炒至全熟。
 
-![spice](/img/cooking/spicy-hot-pot/2.jpg)
+![done](/img/cooking/spicy-hot-pot/2.jpg)
 
 ---
