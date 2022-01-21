@@ -4,14 +4,22 @@ title: Projects
 subtitle: Where you know me specifically
 ---
 
-## Github (Open Source Contributions)
+<div class="row">
+  <div class="column">
+    <h3>Overview</h3>
+    <img src="https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/overview.svg" alt="Github Overview">
+  </div>
 
----
+  <div class="column">
+    <h3>Home Setups</h3>
+    <a href="/setups/"><center><img src="/img/projects/home-gear.png" alt="Home Setups" style="width:50%"></center></a>
+  </div>
 
-![](https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/languages.svg)
-
-***check my Github page on the bottom of the site**
+  <div class="column">
+    <h3>Languages</h3>
+    <img src="https://raw.githubusercontent.com/elizhyu/github-stats/master/generated/languages.svg" alt="Github Languages">
+  </div>
+</div>
 
 ## Design & Fabrication
 
