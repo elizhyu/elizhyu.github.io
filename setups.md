@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Home Setups
-subtitle: Server, Workbench, and IoT
+subtitle: Network, Workbench, and IoT
 permalink: /setups/
 ---
 
 <div class="row">
   <div class="column">
-    <h3>Server Setup</h3>
-    <a href="#server"><img src="/img/projects/setups/server.png" alt="Server Setup" style="width:100%"></a>
+    <h3>Network Setup</h3>
+    <a href="#network"><img src="/img/projects/setups/server.png" alt="Network Setup" style="width:100%"></a>
   </div>
 
   <div class="column">
