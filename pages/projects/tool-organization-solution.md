@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/tool-organization-solution/
 title: Tool Organization Solution
-subtitle: A 3D printing solution for organizing different kinds of tools in workbench.
+subtitle: A 3D printing solution for organizing different kinds of tools in workbench
 ---
 
 ## Large Size Stackable Tray (3-1/2'' x 7'')

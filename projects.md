@@ -29,7 +29,7 @@ subtitle: Where you know me specifically
   <div class="column">
     <h3>Tool Organization Solution</h3>
     <a href="/projects/tool-organization-solution/"><img src="/img/projects/tool-organization-solution.png" alt="Tool Organization Solution" style="width:100%"></a>
-    <p>A 3D printing solution for organizing different kinds of tools in workbench.</p>
+    <p>A 3D printing solution for organizing different kinds of tools in workbench</p>
   </div>
 
   <div class="column">
