@@ -27,6 +27,12 @@ subtitle: Where you know me specifically
 
 <div class="row">
   <div class="column">
+    <h3>Werewolf Tokens</h3>
+    <a href="/projects/werewolf-tokens/"><img src="/img/projects/werewolf-tokens.png" alt="Werewolf Tokens" style="width:100%"></a>
+    <p>Tokens for board game "Werewolf" that can be fully 3D printed</p>
+  </div>
+
+  <div class="column">
     <h3>Tool Organization Solution</h3>
     <a href="/projects/tool-organization-solution/"><img src="/img/projects/tool-organization-solution.png" alt="Tool Organization Solution" style="width:100%"></a>
     <p>A 3D printing solution for organizing different kinds of tools in workbench</p>
@@ -37,15 +43,15 @@ subtitle: Where you know me specifically
     <a href="/projects/hybrid-electric-go-kart/"><img src="/img/projects/hybrid-electric-go-kart.jpg" alt="Hybrid Electric Go-Kart" style="width:100%"></a>
     <p>Hybrid electric vehicle designed and fabricated from bare chassis</p>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <h3>Prism Wearable Headset</h3>
     <a href="/projects/prism-wearable-headset/"><img src="/img/projects/prism-wearable-headset.png" alt="Prism Wearable Headset" style="width:100%"></a>
     <p>Personal wearable recording and data logging device for early childhood autism research</p>
   </div>
-</div>
 
-<div class="row">
   <div class="column">
     <h3>Versatile Tuner</h3>
     <a href="/projects/versatile-tuner/"><img src="/img/projects/versatile-tuner.png" alt="Versatile Tuner" style="width:100%"></a>
@@ -57,7 +63,9 @@ subtitle: Where you know me specifically
     <a href="/projects/mic-amplifier/"><img src="/img/projects/mic-amp.png" alt="Mic Amplifier" style="width:100%"></a>
     <p>A mic amplifier capable of both balanced and unbalanced input signal, noise filtering, 5-band equalizing, and 25.92W max output power</p>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <h3>Electric Guitar</h3>
     <a href="/projects/electric-guitar/"><img src="/img/projects/electric-guitar.png" alt="Electric Guitar" style="width:100%"></a>
