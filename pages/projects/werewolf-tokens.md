@@ -144,7 +144,7 @@ In the game, there are two different groups:
       <a href="/model/werewolf-tokens/bear_tamer.step"><button>.STEP File</button></a>
     </div>
     <p>The <b>Bear Tamer</b> is informed at day if one of his/her two neighbors is a werewolf</p>
-    </div>
+  </div>
 </div>
 
 <div class="row">
@@ -201,6 +201,32 @@ In the game, there are two different groups:
   </div>
 </div>
 
+---
+
+## Player Tokens
+
+<div class="row">
+  <div class="column">
+    <h3>Player 1</h3>
+    <a href="/img/projects/werewolf-tokens/1.png"><img src="/img/projects/werewolf-tokens/1.png" alt="Player 1" style="width:100%"></a>
+    <p>The <b>Player 1</b> token</p>
+  </div>
+
+  <div class="column">
+    <h3>Get All 18 Player Tokens</h3>
+    <p>Select the file types</p>
+    <div style="text-align:center;">
+      <a href="/model/werewolf-tokens/player_3mf.zip"><button>.3MF Files</button></a>
+      <a href="/model/werewolf-tokens/player_step.zip"><button>.STEP Files</button></a>
+    </div>
+  </div>
+
+  <div class="column">
+    <h3>Player 18</h3>
+    <a href="/img/projects/werewolf-tokens/18.png"><img src="/img/projects/werewolf-tokens/18.png" alt="Player 18" style="width:100%"></a>
+    <p>The <b>Player 18</b> token</p>
+  </div>
+</div>
 
 
 
