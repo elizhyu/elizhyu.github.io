@@ -123,6 +123,28 @@ In the game, there are two different groups:
     </div>
     <p>The <b>Idiot</b> stays alive if he/she is voted to be eliminated, but cannot vote anymore</p>
   </div>
+
+  <div class="column">
+    <h3>Tomb Keeper Role</h3>
+    <a href="/img/projects/werewolf-tokens/tomb_keeper.png"><img src="/img/projects/werewolf-tokens/tomb_keeper.png" alt="Tomb Keeper Role" style="width:100%"></a>
+    <div style="text-align:center;">
+      <a href="/model/werewolf-tokens/tomb_keeper.3mf"><button>.3MF File</button></a>
+      <a href="/model/werewolf-tokens/tomb_keeper.step"><button>.STEP File</button></a>
+    </div>
+    <p>The <b>Tomb Keeper</b> can discover the identity(which group) of the last player voted out at night</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h3>Bear Tamer Role</h3>
+    <a href="/img/projects/werewolf-tokens/bear_tamer.png"><img src="/img/projects/werewolf-tokens/bear_tamer.png" alt="Bear Tamer Role" style="width:100%"></a>
+    <div style="text-align:center;">
+      <a href="/model/werewolf-tokens/bear_tamer.3mf"><button>.3MF File</button></a>
+      <a href="/model/werewolf-tokens/bear_tamer.step"><button>.STEP File</button></a>
+    </div>
+    <p>The <b>Bear Tamer</b> is informed at day if one of his/her two neighbors is a werewolf</p>
+    </div>
 </div>
 
 <div class="row">
