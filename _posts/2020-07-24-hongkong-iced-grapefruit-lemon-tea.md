@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hong Kong Sytle Iced Grapefruit Lemon Tea<br>港式西柚冰柠茶
+title:  Hong Kong Style Iced Grapefruit Lemon Tea<br>港式西柚冰柠茶
 subtitle: A variation of <a target="_blank" href="/hongkong-iced-lemon-tea/">Hong Kong Style Iced Lemon Tea</a> for grapefruit lovers.
 categories: [ drinks ]
 tags: [ lemon tea, grapefruit, lemon, lime, Hong Kong ]
@@ -31,7 +31,7 @@ bigimg: /img/cooking/hongkong-iced-grapefruit-lemon-tea/1.jpg
 
 - Slice the grapefruit in half, and juice a half of it.
 
-- Slice the reamining half of grapefruit and put into the shaker.
+- Slice the remaining half of grapefruit and put into the shaker.
 
 - Put in the lemon and lime as well.
 
@@ -39,7 +39,7 @@ bigimg: /img/cooking/hongkong-iced-grapefruit-lemon-tea/1.jpg
 
 - Add in tea base and syrup, as well as the grapefruit juice.
 
-- Shake aggressively until bubbles apear.
+- Shake aggressively until bubbles appear.
 
 - Strain into a serving glass.
 

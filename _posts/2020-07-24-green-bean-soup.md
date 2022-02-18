@@ -36,7 +36,7 @@ bigimg: /img/cooking/asian-green-bean-soup/1.png
 
 - Add sugar according to personal preference.
 
-![Donw](/img/cooking/asian-green-bean-soup/3.png)
+![Done](/img/cooking/asian-green-bean-soup/3.png)
 
 - Can be refrigerated as iced sweets
 

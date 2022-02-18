@@ -48,7 +48,7 @@ bigimg: /img/cooking/italian-baked-mushrooms/1.png
 
 - Set the oven to 400°F (450°F for big mushrooms) and bake for 20-30 minutes (10 minutes for big mushrooms) until golden brown. *(leave the mushrooms uncovered)*
 
-- (Optional) Season and bake the mushrooms with various vegetables, like cauliflower and tomotoes.
+- (Optional) Season and bake the mushrooms with various vegetables, like cauliflower and tomatoes.
 
 ![With_Vegetables](/img/cooking/italian-baked-mushrooms/7.jpg)
 

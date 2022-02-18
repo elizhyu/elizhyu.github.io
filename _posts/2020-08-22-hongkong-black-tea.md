@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hong Kong Sytle Black Tea<br>港式冰红茶
+title:  Hong Kong Style Black Tea<br>港式冰红茶
 subtitle: The common tea base for most Hong Kong Style tea drinks.
 categories: [ drinks ]
 tags: [ black tea, Hong Kong ]
@@ -12,7 +12,7 @@ bigimg: /img/cooking/hongkong-black-tea/1.png
 **Ingredients:**
 
 - 1000 ml water
-- 30 g black tea (leavs or powder)
+- 30 g black tea (leaves or powder)
 
 ---
 

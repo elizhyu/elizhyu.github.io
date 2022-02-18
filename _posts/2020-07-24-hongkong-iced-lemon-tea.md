@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hong Kong Sytle Iced Lemon Tea<br>港式冰柠茶
+title:  Hong Kong Style Iced Lemon Tea<br>港式冰柠茶
 subtitle: One of the two most popular Hong Kong drinks. The other one is <a target="_blank" href="/hongkong-milk-tea/">Hong Kong Style Milk Tea</a>.
 categories: [ drinks ]
 tags: [ lemon tea, lemon, lime, Hong Kong ]
@@ -33,7 +33,7 @@ bigimg: /img/cooking/hongkong-iced-lemon-tea/1.png
 
 - Add in tea base and syrup.
 
-- Shake aggressively until bubbles apear.
+- Shake aggressively until bubbles appear.
 
 - Strain into a serving glass.
 

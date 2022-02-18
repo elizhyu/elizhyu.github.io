@@ -43,7 +43,7 @@ bigimg: /img/cooking/butter-garlic-mussel/1.jpg
 
 - Add the juice of one lemon, give the mussels a good stir, and cook for 1-2 minutes longer,
 
-- Sprinle with parsley and salt over the top.
+- Sprinkle with parsley and salt over the top.
 
 - (Optional) Serve with crusty (garlic) bread or creamy pasta.
 
