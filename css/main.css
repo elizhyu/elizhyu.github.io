@@ -654,7 +654,7 @@ table tr th {
   padding: 6px 13px;
 }
 table tr td {
-  border: 1px solid #cccccc;
+  border: 0px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
