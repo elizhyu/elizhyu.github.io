@@ -13,3 +13,6 @@ subtitle: Personal wearable recording and data logging device for early childhoo
  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/-l7hIi6J4lM">
 </iframe>
 </div>
+
+{: .box-note}
+**Code:** Access the code and all digital files of the project from [Github](https://github.com/elizhyu/Project49)
