@@ -16,6 +16,12 @@ subtitle: Where you know me way too much
   </div>
 
   <div class="column">
+    <h3>Music</h3>
+    <a href="/hobbies/music/"><img src="/img/music/music.png" alt="Photography" style="width:100%"></a>
+    <p>To feel my rhythm from inside</p>
+  </div>
+
+  <!-- <div class="column">
     <h3>Videography</h3>
     <a href="/hobbies/videography/"><img src="/img/video/videography.png" alt="Videography" style="width:100%"></a>
     <p>To tell my stories and special moments</p>
@@ -25,7 +31,7 @@ subtitle: Where you know me way too much
     <h3>Drawing</h3>
     <a href="/hobbies/drawing/"><img src="/img/drawings/drawing.png" alt="Drawing" style="width:100%"></a>
     <p>To unleash my subconscious mind</p>
-  </div>
+  </div> -->
 </div>
 
 <br />
