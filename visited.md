@@ -27,6 +27,18 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "FR",
+		"showAsSelected": true
+	},
+	{
+		"id": "BE",
+		"showAsSelected": true
+	},
+	{
+		"id": "NL",
+		"showAsSelected": true
+	},
+	{
 		"id": "DK",
 		"showAsSelected": true
 	},
