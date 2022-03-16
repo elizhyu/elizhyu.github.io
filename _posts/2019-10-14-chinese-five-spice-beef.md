@@ -30,7 +30,7 @@ bigimg: /img/cooking/chinese-five-spice-beef/0.jpg
 
 **Procedures:**
 
-- Put beef into a pot and add water till all submerged.<br>将猪肉放入锅中加水至完全浸没。
+- Put beef into a pot and add water till all submerged.<br>将牛肉放入锅中加水至完全浸没。
 
 - Heat til the water boils, and then wash the beef.<br>水煮开后取出牛肉洗净。
 
