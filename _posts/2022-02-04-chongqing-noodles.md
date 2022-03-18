@@ -22,7 +22,7 @@ Chongqing Spicy Noodles (重庆小面) is referred to as *xiǎomiàn*, literally
 - 3tbsp. MSG
 - 2tbsp. sugar
 - vinegar
-- soy sauce
+- light soy sauce
 - cumin
 
 ---
