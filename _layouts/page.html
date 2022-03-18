@@ -23,6 +23,7 @@ layout: base
 
 <style>
 
+  /* Layout */
   .row,
   .row > .column {
     padding: 8px;
@@ -65,6 +66,36 @@ layout: base
     text-align: center;
   }
 
+  /* Side Menu */
+  .sidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 35%;
+    left: 10px;
+    background: #f1f1f1;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    color: #404040;
+    display: block;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
+  
+  .sidenav a:hover {
+    color: #0085A1;
+  }
+  
+  .main {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    padding: 0px 10px;
+  }
+
   @media only screen and (max-width: 600px) {
     .column { 
       display: block;
@@ -75,6 +106,33 @@ layout: base
       display: block;
       width: 100%;
     }
+
+    /* Side Menu */
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
   }
+
+/* Quote code */
+
+  details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+}
 
 </style>
