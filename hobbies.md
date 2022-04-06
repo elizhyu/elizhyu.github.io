@@ -50,11 +50,19 @@ subtitle: Where you know me way too much
   </div>
 
   <div class="column">
+      <h3>Brewing</h3>
+    <a href="/hobbies/brewing/"><img src="/img/brewing/brewing.png" alt="Brewing" style="width:100%"></a>
+    <p>The method to extract the glorious liquids</p>
+  </div>
+
+  <div class="column">
       <h3>Board Game</h3>
     <a href="/hobbies/boardgame/" target="_blank"><img src="/img/boardgame/boardgame.png" alt="Cooking" style="width:100%"></a>
     <p>The board games I owned</p>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <h3>Travelling</h3>
     <a href="/hobbies/visited/"><img src="/img/travel/travelling.png" alt="Travelling" style="width:100%"></a>
