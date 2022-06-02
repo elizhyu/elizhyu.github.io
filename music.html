@@ -5,6 +5,11 @@ subtitle: Feel my passion through rhythm
 permalink: /hobbies/music/
 ---
 
+<div class="sidenav">
+    <a href="#cover">Music Cover</a>
+</div>
+  
+<div class="main">
 
     <h4>Music Taste</h4>
     <p>
@@ -20,3 +25,29 @@ permalink: /hobbies/music/
     </p>
 
     <hr />
+
+    <h2 id="cover">Music Cover</h2>
+
+{% assign num = 0 %}
+
+{% assign sheet_pages = site.pages | where: "layout", "sheet" %}
+{% for sheet_page in sheet_pages %}
+    {% assign num = num | plus: 1 %}
+    {% if num == 1 %}
+    <div class="row">
+    {% endif %}
+        <div class="column">
+            <a href="{{ sheet_page.url | prepend: site.baseurl }}"><h3>{{ sheet_page.title }}</h3></a>
+            <p>{{ sheet_page.subtitle }}</p>
+        </div>
+    {% if num == 3 %}
+        {% assign num = 0 %}
+    </div>
+    {% endif %}
+{% endfor %}
+
+{% if num != 0 %}
+    </div>
+{% endif %}
+
+</div>  

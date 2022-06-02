@@ -1,0 +1,58 @@
+---
+layout: page
+---
+
+<script src="/js/opensheetmusicdisplay-1.4.5.min.js"></script>
+
+{{ content }}
+
+{% if page.video %}
+  {% for video in page.video %}
+    <hr>
+    <h2>{{ video.title }}</h2>
+    {% if video.source == "youtube" %}
+      <div style="position:relative;padding-bottom:56.25%;">
+      {% if video.start %}
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ video.id }}?controls=1&vq=hd1080
+        &start={{ video.start }}&end={{ video.end }}" 
+        style="width:100%;height:100%;position:absolute;left:0px;top:0px;" title="YouTube Video Player" frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+      {% else %}
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ video.id }}?controls=1&vq=hd1080" 
+        style="width:100%;height:100%;position:absolute;left:0px;top:0px;" title="YouTube Video Player" frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+      {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if page.score %}
+<hr>
+<h2>Score</h2>
+  {% for score in page.score %}
+    {% if score.source == "pic" %}
+      <img src="{{ score.path }}" />
+    {% endif %}
+    {% if score.source == "xml" %}
+      <div id="osmdContainer" />
+
+      <script>
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay("osmdContainer");
+        osmd.setOptions({
+          backend: "svg",
+          drawTitle: true,
+          // drawingParameters: "compacttight" // don't display title, composer etc., smaller margins
+        });
+        osmd.load("/xml/{{ score.path }}")
+          .then(
+            function() {
+              osmd.render();
+            }
+          );
+      </script>
+    {% endif %}
+  {% endfor %}  
+{% endif %}
