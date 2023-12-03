@@ -95,4 +95,13 @@ telegram:
   name: "Telegram"
   urlTemplate: "https://t.me/{value}"
   icon: "fab fa-telegram-plane"
-  
+
+orcid:
+  name: "ORCID"
+  urlTemplate: "https://orcid.org/{value}"
+  icon: "fab fa-orcid"
+
+google-scholar:
+  name: "Google Scholar"
+  urlTemplate: "https://scholar.google.com/{value}"
+  icon: "fa fa-graduation-cap"
