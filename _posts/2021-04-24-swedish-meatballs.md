@@ -2,7 +2,7 @@
 layout: post
 title:  Swedish Meatballs
 subtitle: Tender little meatballs from Swedish.
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ meatball, Swedish ]
 bigimg: /img/cooking/swedish-meatballs/0.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Italian Sausage Pasta
 subtitle: Fast Easy Italian-Style Pasta
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ sausages, Italian, pasta ]
 bigimg: /img/cooking/italian-sausage-pasta/0.jpg
 ---

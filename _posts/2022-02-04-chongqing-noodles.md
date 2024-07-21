@@ -2,7 +2,7 @@
 layout: post
 title:  Chongqing Noodles<br>重庆小面
 subtitle: a traditional breakfast dish in Chongqing that is widely consumed by Chongqing residents as a common street food
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ spicy, noodles ]
 bigimg: /img/cooking/chongqing-noodles/0.jpg
 ---

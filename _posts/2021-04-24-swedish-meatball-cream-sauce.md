@@ -2,7 +2,7 @@
 layout: post
 title:  Swedish Meatball Cream Sauce
 subtitle: A wonderful, savory cream sauce on top of the Swedish meatballs.
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ meatball, cream sauce ]
 bigimg: /img/cooking/swedish-meatball-cream-sauce/1.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Garlic Butter Mussel
 subtitle: A delicious seafood dish filled with flavour that is easy to be made at home.
-categories: [ seafood, main course ]
+categories: [ seafood, entrée ]
 tags: [ mussel, garlic butter ]
 bigimg: /img/cooking/butter-garlic-mussel/1.jpg
 ---

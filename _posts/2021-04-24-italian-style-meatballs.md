@@ -2,7 +2,7 @@
 layout: post
 title:  Italian-Style Meatballs
 subtitle: Great classic moist and tender meatballs in Italian-Style.
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ meatball, Italian ]
 bigimg: /img/cooking/italian-style-meatballs/0.jpg
 ---

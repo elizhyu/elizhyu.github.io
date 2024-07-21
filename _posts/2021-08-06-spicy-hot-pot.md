@@ -2,7 +2,7 @@
 layout: post
 title:  Spicy Hot Pot Base<br>麻辣香锅底
 subtitle: A stir-fried Chinese dish with a strong flavor, and great flexibility in ingredients.
-categories: [ main course ]
+categories: [ entrée ]
 tags: [ pot, spicy ]
 bigimg: /img/cooking/spicy-hot-pot/0.jpg
 ---
