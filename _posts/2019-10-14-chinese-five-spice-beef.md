@@ -14,8 +14,8 @@ bigimg: /img/cooking/chinese-five-spice-beef/0.jpg
 - green onion
 - ginger
 - 0.3 part cooking wine 黄酒
-- 1 part light soy source 生抽
-- 1 part dark soy source 老抽
+- 1 part light soy sauce 生抽
+- 1 part dark soy sauce 老抽
 - 1 part (rock) sugar 冰糖
 - 30 part water
 - **[Optional]** chilli flakes and Sichuan pepper can be added for the spicy flavored 五香辣卤牛肉
