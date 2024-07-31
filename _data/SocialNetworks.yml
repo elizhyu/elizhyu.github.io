@@ -105,3 +105,8 @@ google-scholar:
   name: "Google Scholar"
   urlTemplate: "https://scholar.google.com/{value}"
   icon: "fa fa-graduation-cap"
+
+calendly:
+  name: "Calendly"
+  urlTemplate: "https://calendly.com/{value}"
+  icon: "fa fa-calendar-check"
