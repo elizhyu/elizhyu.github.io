@@ -126,7 +126,10 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
+  padding-left: 20px;
+  padding-top: 10px;
   font-weight: 800;
+  font-size: 20px;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
