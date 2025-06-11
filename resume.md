@@ -7,9 +7,7 @@ subtitle: Eli Zhihao Yu
 ## SUMMARY
 
 I am currently a Senior Firmware Engineer at Texas Instruments, working on Custom Firmware Development in Battery Fuel Gauges team.
-&nbsp;
 I graduated from Georgia Institute of Technology as an Electrical and Computer Engineering Master student, specializing in VLSI design,
-&nbsp;
 and I finished my Bachelor's degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems.
 
 <!---
