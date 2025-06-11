@@ -6,7 +6,7 @@ subtitle: Eli Zhihao Yu
 
 ## SUMMARY
 
-I am currently a Firmware Engineer at Texas Instruments, working on Custom Firmware Development in Battery Fuel Gauges team. I graduated from Georgia Institute of Technology as an Electrical and Computer Engineering Master student, specializing in VLSI design, and I finished my Bachelor's degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. 
+I am currently a Senior Firmware Engineer at Texas Instruments, working on Custom Firmware Development in Battery Fuel Gauges team. I graduated from Georgia Institute of Technology as an Electrical and Computer Engineering Master student, specializing in VLSI design, and I finished my Bachelor's degree in Electrical and Computer Engineering Technology at Purdue University specializing in embedded systems. 
 
 <!---
 {: .box-note}
@@ -20,7 +20,7 @@ I am currently a Firmware Engineer at Texas Instruments, working on Custom Firmw
 <a href="https://www.ti.com/" target="_blank"><img src="/img/resume/TexasInstruments.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
 &emsp;
-**Firmware Engineer of Battery Management Solution**
+**Senior Firmware Engineer at Battery Management Solution**
 <br/>
 &emsp;
 Texas Instruments
@@ -28,7 +28,15 @@ Texas Instruments
 &emsp;
 *Aug 2021 - Now*
 
-<br>
+- Design and implement battery management "gauging" SoC firmware in C and assembly language that supports customer special features for end equipments ranging from consumer electronics to industrial products
+- Implement new TI's industry leading battery gauging algorithm, to keep up with battery industry trends by addressing new changes and issues as well as improving existing gauging accuracy
+- Provide technical support for collaboration with major consumer electronics companies and OEMs across Asia and the U.S., including clarifying system-level design and planning firmware execution
+- Contribute to various improvements of firmware development, review, testing, tooling, and workflow throughout the embedded firmware delivery cycle (Python, Shell Scripting)
+- Provide mentor and compose documentation for most new hires and interns of the team to achieve smoother onboarding and knowledge transfer process
+- Work cross-functionally with quality, systems, algorithm, application, business, and marketing teams, supporting major customer engagement and maintenance
+- Involve in product architectural decisions and product roadmap
+
+<br/>
 
 <a href="https://polytechnic.purdue.edu/" target="_blank"><img src="/img/resume/polytech.png" class = "lazyload" style="vertical-align:top; width:20%; float:right;"></a>
 
